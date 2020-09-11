@@ -9,3 +9,7 @@ b) .tmux.conf
 c) .bashrc
 
 d) .git-completion.bash
+
+e) .taskrc
+
+f) .timewarrior folder
