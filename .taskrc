@@ -12,8 +12,6 @@
 
 # My tag and project priority overrides
 urgency.user.tag.college.coefficient=2.0 # all my college stuff has a higher priority
-urgency.user.tag.fun.coefficient=-2.0 # all fun and chill stuff has a lower priority
-uda.priority.values=H,M,,L
 # Files
 data.location=~/.task
 
@@ -77,8 +75,8 @@ report.waiting.sort=wait+,due+,entry+
 urgency.inherit=on
 
 # How urgent something is depends upon what's waiting on it.
-urgency.blocking.coefficient=0
-urgency.blocked.coefficient=0
+urgency.blocking.coefficient=2
+urgency.blocked.coefficient=-3
 
 # More sensible priorities, plz.
 uda.priority.values = H,M,,L

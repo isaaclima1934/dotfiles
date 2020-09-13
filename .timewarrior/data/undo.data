@@ -1,0 +1,33 @@
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T012720Z","tags":["college","trying this shit"]}
+txn:
+  type: interval
+  before: {"start":"20200913T012720Z","tags":["college","trying this shit"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T012720Z","end":"20200913T012747Z","tags":["college","trying this shit"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T012843Z","tags":["college","trying this shit"]}
+txn:
+  type: interval
+  before: {"start":"20200913T012843Z","tags":["college","trying this shit"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T012843Z","end":"20200913T012848Z","tags":["college","trying this shit"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T015603Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200913T015603Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T015603Z","end":"20200913T015609Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}

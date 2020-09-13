@@ -140,6 +140,8 @@ Plug 'dhruvasagar/vim-table-mode'
 Plug 'w0rp/ale', {'for': ['c', 'python', 'bash', 'c++', 'rust']}
 Plug 'junegunn/goyo.vim', {'on': 'Goyo'}
 Plug 'Zabanaa/neuromancer.vim'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
@@ -171,11 +173,10 @@ endif
 au CursorMoved * if &buftype == 'terminal' | set nonumber | endif
 
 " VIMWIKI OPTIONS
-" let g:vimwiki_list = [{
-"   \ 'path': '$HOME/Drive/wiki',
-"   \ 'template_path': '$HOME/Drive/wiki/templates',
-"   \ 'template_default': 'default',
-"   \ 'template_ext': '.html'}]
+let g:vimwiki_list = [{
+  \ 'template_path': '$HOME/vimwiki',
+  \ 'template_default': 'def_template',
+  \ 'template_ext': '.html'}]
 " let g:vimwiki_dir_link = 'index'    " Open /index instead of directory listing.
 " let g:vimwiki_folding = 'expr'      " Enable folding.
 " autocmd FileType vimwiki set spell  " Enable spelling.
