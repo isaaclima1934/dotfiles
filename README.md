@@ -12,4 +12,6 @@ d) .git-completion.bash
 
 e) .taskrc
 
-f) .timewarrior folder
+f) .task folder
+
+g) .timewarrior folder

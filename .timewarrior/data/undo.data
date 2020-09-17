@@ -31,3 +31,216 @@ txn:
   type: interval
   before: 
   after: {"start":"20200913T015603Z","end":"20200913T015609Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T151312Z","tags":["Do list 8 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200913T151312Z","tags":["Do list 8 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T151312Z","end":"20200913T153605Z","tags":["Do list 8 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T164842Z","tags":["Do list 8 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200913T164842Z","tags":["Do list 8 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T164842Z","end":"20200913T171827Z","tags":["Do list 8 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T172140Z","tags":["Do list 9 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200913T172140Z","tags":["Do list 9 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T172140Z","end":"20200913T172207Z","tags":["Do list 9 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T175624Z","tags":["Do list 9 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200913T175624Z","tags":["Do list 9 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T175624Z","end":"20200913T182251Z","tags":["Do list 9 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T214906Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200913T214906Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T214906Z","end":"20200913T215630Z","tags":["CERO","Watch video 2 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T215649Z","tags":["CERO","Watch video 3 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200913T215649Z","tags":["CERO","Watch video 3 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T215649Z","end":"20200913T221806Z","tags":["CERO","Watch video 3 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200913T232754Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: {"start":"20200913T232754Z","tags":["Read ISL book for next Test","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200913T232754Z","end":"20200913T233703Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T124412Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T124412Z","tags":["Read ISL book for next Test","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T124412Z","end":"20200914T144609Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T200915Z","tags":["Watch IBD class from 14/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T200915Z","tags":["Watch IBD class from 14/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T200915Z","end":"20200914T201911Z","tags":["Watch IBD class from 14/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T201921Z","tags":["Watch ISL class from 14/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T201921Z","tags":["Watch ISL class from 14/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T201921Z","end":"20200914T204827Z","tags":["Watch ISL class from 14/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T204832Z","tags":["Watch IBD class from 14/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T204832Z","tags":["Watch IBD class from 14/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T204832Z","end":"20200914T210852Z","tags":["Watch IBD class from 14/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T211605Z","tags":["Do list 10 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T211605Z","tags":["Do list 10 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T211605Z","end":"20200914T213053Z","tags":["Do list 10 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200914T213144Z","tags":["Do list 10 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: {"start":"20200914T213144Z","tags":["Do list 10 of CALCULO II","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200914T213144Z","end":"20200914T213158Z","tags":["Do list 10 of CALCULO II","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200915T122949Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: {"start":"20200915T122949Z","tags":["Read ISL book for next Test","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200915T122949Z","end":"20200915T124258Z","tags":["Read ISL book for next Test","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200915T154043Z","tags":["Work on my Vimwiki wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200915T154043Z","tags":["Work on my Vimwiki wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200915T154043Z","end":"20200915T174617Z","tags":["Work on my Vimwiki wiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200915T190008Z","tags":["Watch PROBABILIDADE class from 15/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200915T190008Z","tags":["Watch PROBABILIDADE class from 15/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200915T190008Z","end":"20200915T194952Z","tags":["Watch PROBABILIDADE class from 15/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200915T212915Z","tags":["Watch ED class from 15/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200915T212915Z","tags":["Watch ED class from 15/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200915T212915Z","end":"20200915T232005Z","tags":["Watch ED class from 15/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200915T232008Z","tags":["Watch ED class from 15/09","college"]}
+txn:
+  type: interval
+  before: {"start":"20200915T232008Z","tags":["Watch ED class from 15/09","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200915T232008Z","end":"20200915T233520Z","tags":["Watch ED class from 15/09","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200916T125935Z","tags":["Do CALCULO II test!","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20200916T125935Z","tags":["Do CALCULO II test!","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200916T125935Z","end":"20200916T143557Z","tags":["Do CALCULO II test!","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200916T175230Z","tags":["CERO","Watch video 4 of CERO course","cybersec"]}
