@@ -41,6 +41,20 @@ set autowrite     " Automatically :write before running commands
 set modelines=0   " Disable modelines as a security precaution
 set nomodeline
 
+" permits using h and l to move between line when reaching the start
+" and the end of a line, respectively
+set whichwrap=h,l
+
+" do not recognize numbers starting with a zero as octal
+set nrformats-=octal
+
+" map semicolon to colon for sake of laziness
+nnoremap ; :
+
+" make using the clipboard more easyyy
+noremap <Leader>y "+y
+noremap <Leader>p "+p
+
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.
 if (&t_Co > 2 || has("gui_running")) && !exists("syntax_on")
@@ -95,12 +109,8 @@ nnoremap <Right> :echoe "Use l"<CR>
 nnoremap <Up> :echoe "Use k"<CR>
 nnoremap <Down> :echoe "Use j"<CR>
 
-" vim-test mappings
-nnoremap <silent> <Leader>t :TestFile<CR>
-nnoremap <silent> <Leader>s :TestNearest<CR>
-nnoremap <silent> <Leader>l :TestLast<CR>
-nnoremap <silent> <Leader>a :TestSuite<CR>
-nnoremap <silent> <Leader>gt :TestVisit<CR>
+" insta make
+nnoremap <silent> <Leader>mk :make<Enter><Enter><Enter>
 
 " Run commands that require an interactive shell
 nnoremap <Leader>r :RunInInteractiveShell<Space>
@@ -137,15 +147,10 @@ call plug#begin()
 Plug 'vimwiki/vimwiki'
 Plug 'danilamihailov/vim-tips-wiki'
 Plug 'dhruvasagar/vim-table-mode'
-Plug 'w0rp/ale', {'for': ['c', 'python', 'bash', 'c++', 'rust']}
-Plug 'junegunn/goyo.vim', {'on': 'Goyo'}
-Plug 'Zabanaa/neuromancer.vim'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
 
 call plug#end()
-
-colorscheme neuromancer
 
 " Soft word wrap
 set linebreak
@@ -177,6 +182,4 @@ let g:vimwiki_list = [{
   \ 'template_path': '$HOME/vimwiki',
   \ 'template_default': 'def_template',
   \ 'template_ext': '.html'}]
-" let g:vimwiki_dir_link = 'index'    " Open /index instead of directory listing.
 " let g:vimwiki_folding = 'expr'      " Enable folding.
-" autocmd FileType vimwiki set spell  " Enable spelling.

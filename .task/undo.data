@@ -831,3 +831,859 @@ time 1600278750
 old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"6be78b2f-53b6-4cf6-8b59-04a37c7b451e" description:"Watch video 4 of CERO course" entry:"1599962578" modified:"1599962858" priority:"M" project:"CERO" status:"pending" tags:"cybersec" uuid:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa"]
 new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"6be78b2f-53b6-4cf6-8b59-04a37c7b451e" description:"Watch video 4 of CERO course" entry:"1599962578" modified:"1600278750" priority:"M" project:"CERO" start:"1600278750" status:"pending" tags:"cybersec" uuid:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa"]
 ---
+time 1600280587
+old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"6be78b2f-53b6-4cf6-8b59-04a37c7b451e" description:"Watch video 4 of CERO course" entry:"1599962578" modified:"1600278750" priority:"M" project:"CERO" start:"1600278750" status:"pending" tags:"cybersec" uuid:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa"]
+new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"6be78b2f-53b6-4cf6-8b59-04a37c7b451e" description:"Watch video 4 of CERO course" end:"1600280584" entry:"1599962578" modified:"1600280587" priority:"M" project:"CERO" status:"completed" tags:"cybersec" uuid:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa"]
+---
+time 1600283165
+old [description:"Do ISL test!" due:"1600347556" entry:"1600261156" modified:"1600267314" priority:"H" scheduled:"1600285314" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+new [description:"Do ISL test!" due:"1600347556" entry:"1600261156" modified:"1600283165" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+---
+time 1600283198
+old [description:"Do ISL test!" due:"1600347556" entry:"1600261156" modified:"1600283165" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+new [description:"Do ISL test!" due:"1600286798" entry:"1600261156" modified:"1600283198" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+---
+time 1600284696
+old [description:"Do ISL test!" due:"1600286798" entry:"1600261156" modified:"1600283198" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+new [description:"Do ISL test!" due:"1600286495" entry:"1600261156" modified:"1600284696" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+---
+time 1600286316
+old [description:"Do ISL test!" due:"1600286495" entry:"1600261156" modified:"1600284696" priority:"H" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+new [description:"Do ISL test!" due:"1600286495" entry:"1600261156" modified:"1600286316" priority:"H" start:"1600286314" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+---
+time 1600289118
+old [description:"Do ISL test!" due:"1600286495" entry:"1600261156" modified:"1600286316" priority:"H" start:"1600286314" status:"pending" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+new [description:"Do ISL test!" due:"1600286495" end:"1600289116" entry:"1600261156" modified:"1600289118" priority:"H" status:"completed" tags:"college,test" until:"1600390756" uuid:"47ead884-6089-4881-bd50-0672cb713855"]
+---
+time 1600291199
+new [description:"Do EX4 from IBD" due:"1600830000" entry:"1600291199" modified:"1600291199" status:"pending" tags:"college,list" until:"1600873200" uuid:"78beabb1-4e24-4613-92f1-4cfac5506d45"]
+---
+time 1600291297
+old [description:"Watch class of IBD from 16\/09" due:"1600648279" entry:"1600259479" modified:"1600259479" status:"pending" tags:"college" until:"1600821079" uuid:"88f89469-f3dc-4ccb-8c78-38242970f0b0"]
+new [description:"Watch class of IBD from 16\/09" due:"1600648279" entry:"1600259479" modified:"1600291297" start:"1600291295" status:"pending" tags:"college" until:"1600821079" uuid:"88f89469-f3dc-4ccb-8c78-38242970f0b0"]
+---
+time 1600292103
+old [description:"Watch class of IBD from 16\/09" due:"1600648279" entry:"1600259479" modified:"1600291297" start:"1600291295" status:"pending" tags:"college" until:"1600821079" uuid:"88f89469-f3dc-4ccb-8c78-38242970f0b0"]
+new [description:"Watch class of IBD from 16\/09" due:"1600648279" end:"1600292103" entry:"1600259479" modified:"1600292103" status:"completed" tags:"college" until:"1600821079" uuid:"88f89469-f3dc-4ccb-8c78-38242970f0b0"]
+---
+time 1600341630
+new [description:"Watch ED class from 17\/09" due:"1600484400" entry:"1600341630" modified:"1600341630" status:"pending" tags:"college,class" until:"1600743600" uuid:"3b0db6b7-935a-491b-8fdd-d19fea5b3e92"]
+---
+time 1600341639
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600341639" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600349980
+old [description:"Do list 10 of CALCULO II" due:"1600622544" entry:"1599963871" modified:"1600119118" priority:"M" status:"pending" tags:"college" until:"1600795344" uuid:"324d57ac-2c29-41c2-929e-8280c0bdb123"]
+new [description:"Do list 10 of CALCULO II" due:"1600622544" end:"1600349980" entry:"1599963871" modified:"1600349980" priority:"M" status:"completed" tags:"college" until:"1600795344" uuid:"324d57ac-2c29-41c2-929e-8280c0bdb123"]
+---
+time 1600350337
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" modified:"1600350337" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600350356
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" modified:"1600350356" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600350359
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0" modified:"1600350337" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"H" recur:"daily" rtype:"periodic" status:"pending" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+---
+time 1600350359
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" modified:"1600350337" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350359" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600350359
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0" modified:"1600350356" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"H" recur:"daily" rtype:"periodic" status:"pending" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+---
+time 1600350359
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" modified:"1600350356" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350359" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600350386
+old [annotation_1599961508:"Until i reach 100WPM" annotation_1599961523:"Site: 10fastfingers.com" description:"Practice my WPM at the 10ff site" due:"1600047500" entry:"1599961100" mask:"++-" modified:"1600135043" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1600133900" uuid:"4631ecbb-86dc-4a4c-8734-6bc4419f415c"]
+new [annotation_1599961508:"Until i reach 100WPM" annotation_1599961523:"Site: 10fastfingers.com" description:"Practice my WPM at the 10ff site" due:"1600047500" end:"1600350384" entry:"1599961100" mask:"++-" modified:"1600350386" priority:"L" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1600133900" uuid:"4631ecbb-86dc-4a4c-8734-6bc4419f415c"]
+---
+time 1600350465
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0" modified:"1600350356" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"H" recur:"daily" rtype:"periodic" status:"pending" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0.000000" modified:"1600350465" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"H" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+---
+time 1600350467
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350359" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350467" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600350498
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0" modified:"1600350337" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"H" recur:"daily" rtype:"periodic" status:"pending" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600350498" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"H" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+---
+time 1600350501
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350359" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350501" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600350526
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0.000000" modified:"1600350465" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"H" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0.000000" modified:"1600350526" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"L" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+---
+time 1600350527
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350467" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350527" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600350540
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600350498" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"H" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600350540" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"M" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+---
+time 1600350542
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350501" priority:"H" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350542" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600362152
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"-" modified:"1600350527" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"+" modified:"1600362152" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600362152
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350359" imask:"0.000000" modified:"1600350526" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"L" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+new [description:"Practice my WPM at the 10ff site" due:"1600465556" end:"1600362150" entry:"1600350359" imask:"0.000000" modified:"1600362152" parent:"a3b323db-3f3b-459e-8bc3-26456c108509" priority:"L" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" uuid:"13a8131f-1350-4b16-b67b-117487b6fe53"]
+---
+time 1600363021
+new [description:"Fazer novo upload do comprovante de endereço no site da sodre" due:"1600535821" entry:"1600363021" modified:"1600363021" priority:"H" status:"pending" uuid:"0b242511-2939-4958-8476-d3f7c814d2a4"]
+---
+time 1600363872
+old [description:"Watch ED class from 17\/09" due:"1600484400" entry:"1600341630" modified:"1600341630" status:"pending" tags:"college,class" until:"1600743600" uuid:"3b0db6b7-935a-491b-8fdd-d19fea5b3e92"]
+new [description:"Watch ED class from 17\/09" due:"1600484400" end:"1600363872" entry:"1600341630" modified:"1600363872" status:"completed" tags:"college,class" until:"1600743600" uuid:"3b0db6b7-935a-491b-8fdd-d19fea5b3e92"]
+---
+time 1600372094
+old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa" description:"Watch video 5 of CERO course" entry:"1599962686" modified:"1599962858" priority:"M" project:"CERO" status:"pending" tags:"cybersec" uuid:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75"]
+new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa" description:"Watch video 5 of CERO course" entry:"1599962686" modified:"1600372094" priority:"M" project:"CERO" start:"1600372093" status:"pending" tags:"cybersec" uuid:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75"]
+---
+time 1600373945
+old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa" description:"Watch video 5 of CERO course" entry:"1599962686" modified:"1600372094" priority:"M" project:"CERO" start:"1600372093" status:"pending" tags:"cybersec" uuid:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75"]
+new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"b7b81c1b-6ec4-45aa-be86-edf1d2e4aafa" description:"Watch video 5 of CERO course" end:"1600373943" entry:"1599962686" modified:"1600373945" priority:"M" project:"CERO" status:"completed" tags:"cybersec" uuid:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75"]
+---
+time 1600374021
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600350540" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"M" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600374021" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"M" recur:"daily" rtype:"periodic" start:"1600374021" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+---
+time 1600376762
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"-" modified:"1600350542" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"+" modified:"1600376762" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600376762
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350359" imask:"0.000000" modified:"1600374021" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"M" recur:"daily" rtype:"periodic" start:"1600374021" status:"pending" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+new [description:"Work on my Vimwiki" due:"1600465537" end:"1600376761" entry:"1600350359" imask:"0.000000" modified:"1600376762" parent:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b" priority:"M" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" uuid:"870f47b5-83c6-41e2-a6af-5967c66d4195"]
+---
+time 1600377309
+old [description:"Fazer novo upload do comprovante de endereço no site da sodre" due:"1600535821" entry:"1600363021" modified:"1600363021" priority:"H" status:"pending" uuid:"0b242511-2939-4958-8476-d3f7c814d2a4"]
+new [description:"Fazer novo upload do comprovante de endereço no site da sodre" due:"1600535821" end:"1600377309" entry:"1600363021" modified:"1600377309" priority:"H" status:"completed" uuid:"0b242511-2939-4958-8476-d3f7c814d2a4"]
+---
+time 1600378390
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600341639" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600378390" start:"1600378389" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600378552
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600378390" start:"1600378389" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600378552" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600378588
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600484400" entry:"1600341639" modified:"1600378552" status:"pending" tags:"college,class" until:"1600743600" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600378588" status:"pending" tags:"college,class" until:"1600786800" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600434201
+old [description:"Work on my Vimwiki" due:"1600465537" entry:"1600350337" mask:"+" modified:"1600376762" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1606791600" entry:"1600350337" mask:"+" modified:"1600434201" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600434204
+old [description:"Practice my WPM at the 10ff site" due:"1600465556" entry:"1600350356" mask:"+" modified:"1600362152" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1606791600" entry:"1600350356" mask:"+" modified:"1600434204" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600445812
+old [description:"Watch ISL class from 14\/09" due:"1600558705" entry:"1600086714" modified:"1600126705" status:"pending" tags:"college" until:"1600731505" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+new [description:"Watch ISL class from 14\/09" due:"1600558705" entry:"1600086714" modified:"1600445812" status:"pending" tags:"college,class" until:"1600731505" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+---
+time 1600446215
+old [description:"Do EX4 from IBD" due:"1600830000" entry:"1600291199" modified:"1600291199" status:"pending" tags:"college,list" until:"1600873200" uuid:"78beabb1-4e24-4613-92f1-4cfac5506d45"]
+new [description:"Do EX4 from IBD" due:"1600830000" entry:"1600291199" modified:"1600446215" start:"1600446214" status:"pending" tags:"college,list" until:"1600873200" uuid:"78beabb1-4e24-4613-92f1-4cfac5506d45"]
+---
+time 1600452678
+old [description:"Do EX4 from IBD" due:"1600830000" entry:"1600291199" modified:"1600446215" start:"1600446214" status:"pending" tags:"college,list" until:"1600873200" uuid:"78beabb1-4e24-4613-92f1-4cfac5506d45"]
+new [description:"Do EX4 from IBD" due:"1600830000" end:"1600452678" entry:"1600291199" modified:"1600452678" status:"completed" tags:"college,list" until:"1600873200" uuid:"78beabb1-4e24-4613-92f1-4cfac5506d45"]
+---
+time 1600453008
+new [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453008" status:"pending" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+---
+time 1600453026
+old [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453008" status:"pending" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+new [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453026" priority:"H" status:"pending" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+---
+time 1600453032
+old [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453026" priority:"H" status:"pending" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+new [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453032" priority:"H" status:"pending" tags:"college,test" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+---
+time 1600454813
+old [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600453032" priority:"H" status:"pending" tags:"college,test" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+new [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600454813" priority:"H" start:"1600454811" status:"pending" tags:"college,test" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+---
+time 1600459665
+old [description:"Do ISL test!" due:"1600570800" entry:"1600453008" modified:"1600454813" priority:"H" start:"1600454811" status:"pending" tags:"college,test" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+new [description:"Do ISL test!" due:"1600570800" end:"1600459664" entry:"1600453008" modified:"1600459665" priority:"H" status:"completed" tags:"college,test" until:"1600657200" uuid:"18500b0d-a5e7-40fd-aace-390d9d29e678"]
+---
+time 1600519138
+old [description:"Watch ISL class from 14\/09" due:"1600558705" entry:"1600086714" modified:"1600445812" status:"pending" tags:"college,class" until:"1600731505" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+new [description:"Watch ISL class from 14\/09" due:"1600691938" entry:"1600086714" modified:"1600519138" status:"pending" tags:"college,class" until:"1600731505" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+---
+time 1600540092
+old [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1599963922" priority:"H" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+new [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600540092" priority:"H" start:"1600540092" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+---
+time 1600547748
+old [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600540092" priority:"H" start:"1600540092" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+new [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600547748" priority:"H" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+---
+time 1600607793
+old [description:"Do list 7 of PROBABILIDADE" due:"1600622352" entry:"1599963792" modified:"1600017552" priority:"L" status:"pending" tags:"college" until:"1600881552" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+new [description:"Do list 7 of PROBABILIDADE" due:"1600780593" entry:"1599963792" modified:"1600607793" priority:"L" status:"pending" tags:"college" until:"1600866993" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+---
+time 1600607800
+old [description:"Watch ISL class from 14\/09" due:"1600691938" entry:"1600086714" modified:"1600519138" status:"pending" tags:"college,class" until:"1600731505" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+new [description:"Watch ISL class from 14\/09" due:"1600780600" entry:"1600086714" modified:"1600607800" status:"pending" tags:"college,class" until:"1600867000" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+---
+time 1600641450
+old [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600547748" priority:"H" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+new [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600641450" priority:"H" start:"1600641450" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+---
+time 1600648763
+old [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600641450" priority:"H" start:"1600641450" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+new [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600648763" priority:"H" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+---
+time 1600693031
+old [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" entry:"1599963922" modified:"1600648763" priority:"H" status:"pending" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+new [description:"Do TP of ESTRUTURA DE DADOS" due:"1600916400" end:"1600693031" entry:"1599963922" modified:"1600693031" priority:"H" status:"completed" tags:"college" until:"1600981200" uuid:"e1086ca0-c9dd-463e-9467-2dcff48c6d3a"]
+---
+time 1600693074
+old [description:"Watch ISL class from 14\/09" due:"1600780600" entry:"1600086714" modified:"1600607800" status:"pending" tags:"college,class" until:"1600867000" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+new [description:"Watch ISL class from 14\/09" due:"1600780600" end:"1600693074" entry:"1600086714" modified:"1600693074" status:"completed" tags:"college,class" until:"1600867000" uuid:"4a2ab5d2-0ffe-4217-addb-00dc5b68e9b3"]
+---
+time 1600693141
+new [description:"Watch IBD class from 21\/09" due:"1600830000" entry:"1600693141" modified:"1600693141" status:"pending" tags:"class,college" until:"1600873200" uuid:"27355193-aa9a-4269-abf6-a51d61c3d160"]
+---
+time 1600693154
+new [description:"Watch CALCULO II class from 21\/09" due:"1600830000" entry:"1600693154" modified:"1600693154" status:"pending" tags:"class,college" until:"1600873200" uuid:"72776ab9-55b3-472b-94b2-6338b252f792"]
+---
+time 1600693164
+new [description:"Watch ISL class from 21\/09" due:"1600830000" entry:"1600693164" modified:"1600693164" status:"pending" tags:"class,college" until:"1600873200" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+---
+time 1600707736
+new [description:"Try to make the ReadTheDoc template from Org Mode into Vimwiki" entry:"1600707736" modified:"1600707736" status:"pending" tags:"personal" uuid:"c372b40c-8b4d-41ca-963a-64afb0c23c2d"]
+---
+time 1600708652
+new [description:"Study to PROBABILIDADE test!" due:"1600751852" entry:"1600708652" modified:"1600708652" priority:"H" status:"pending" tags:"college,test" until:"1600838252" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600708701
+new [description:"Do PROBABILIDADE test!" due:"1600838301" entry:"1600708701" modified:"1600708701" priority:"H" status:"pending" tags:"college,test" until:"1600924701" uuid:"1fa97287-4fbb-4108-9eb2-d19ba0413930"]
+---
+time 1600710668
+old [description:"Study to PROBABILIDADE test!" due:"1600751852" entry:"1600708652" modified:"1600708652" priority:"H" status:"pending" tags:"college,test" until:"1600838252" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+new [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600710668" priority:"H" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600728823
+new [description:"Copy photos from momphone to windows drive" due:"1601333623" entry:"1600728823" modified:"1600728823" status:"pending" tags:"personal" until:"1601592823" uuid:"080a2de5-5d25-4c67-9928-ced44ad50e92"]
+---
+time 1600729842
+old [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600710668" priority:"H" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+new [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600729842" priority:"H" start:"1600729841" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600737955
+old [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600729842" priority:"H" start:"1600729841" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+new [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600737955" priority:"H" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600776369
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600378588" status:"pending" tags:"college,class" until:"1600786800" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600776369" status:"pending" tags:"college,class" until:"1600819569" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600776393
+old [description:"Copy photos from momphone to windows drive" due:"1601333623" entry:"1600728823" modified:"1600728823" status:"pending" tags:"personal" until:"1601592823" uuid:"080a2de5-5d25-4c67-9928-ced44ad50e92"]
+new [description:"Copy photos from momphone to windows drive" due:"1601333623" end:"1600776393" entry:"1600728823" modified:"1600776393" status:"completed" tags:"personal" until:"1601592823" uuid:"080a2de5-5d25-4c67-9928-ced44ad50e92"]
+---
+time 1600776403
+old [description:"Try to make the ReadTheDoc template from Org Mode into Vimwiki" entry:"1600707736" modified:"1600707736" status:"pending" tags:"personal" uuid:"c372b40c-8b4d-41ca-963a-64afb0c23c2d"]
+new [description:"Try to make the ReadTheDoc template from Org Mode into Vimwiki" end:"1600776402" entry:"1600707736" modified:"1600776403" status:"completed" tags:"personal" uuid:"c372b40c-8b4d-41ca-963a-64afb0c23c2d"]
+---
+time 1600779014
+new [description:"Watch ED class from 22\/09" due:"1600916400" entry:"1600779014" modified:"1600779014" status:"pending" tags:"college,class" until:"1601175600" uuid:"55e0ebc8-0a51-427e-90b5-7e01be14f94b"]
+---
+time 1600782142
+new [description:"Hear Shalfi s new album on spotify" due:"1601175600" entry:"1600782142" modified:"1600782142" status:"waiting" tags:"personal" until:"1601218800" uuid:"4eba5707-9900-436a-be74-6cbf1638de15" wait:"1600916400"]
+---
+time 1600783408
+old [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600737955" priority:"H" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+new [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600783408" priority:"H" start:"1600783406" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600785967
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600776369" status:"pending" tags:"college,class" until:"1600819569" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600785967" start:"1600785967" status:"pending" tags:"college,class" until:"1600819569" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600785972
+old [description:"Do list 7 of PROBABILIDADE" due:"1600780593" entry:"1599963792" modified:"1600607793" priority:"L" status:"pending" tags:"college" until:"1600866993" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+new [description:"Do list 7 of PROBABILIDADE" due:"1600780593" entry:"1599963792" modified:"1600785972" priority:"L" start:"1600785972" status:"pending" tags:"college" until:"1600866993" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+---
+time 1600788193
+old [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" entry:"1600341639" modified:"1600785967" start:"1600785967" status:"pending" tags:"college,class" until:"1600819569" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+new [description:"Watch PROBABILIDADE class from 17\/09" due:"1600743600" end:"1600788193" entry:"1600341639" modified:"1600788193" status:"completed" tags:"college,class" until:"1600819569" uuid:"1af22ce6-9bb4-4b7a-b9d0-1592fef624a3"]
+---
+time 1600789766
+old [description:"Study to PROBABILIDADE test!" due:"1600840268" entry:"1600708652" modified:"1600783408" priority:"H" start:"1600783406" status:"pending" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+new [description:"Study to PROBABILIDADE test!" due:"1600840268" end:"1600789766" entry:"1600708652" modified:"1600789766" priority:"H" status:"completed" tags:"college,test" until:"1600861868" uuid:"62a75349-e651-46d0-9a91-ffd4e3f616b2"]
+---
+time 1600789776
+old [description:"Do list 7 of PROBABILIDADE" due:"1600780593" entry:"1599963792" modified:"1600785972" priority:"L" start:"1600785972" status:"pending" tags:"college" until:"1600866993" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+new [description:"Do list 7 of PROBABILIDADE" due:"1600780593" end:"1600789776" entry:"1599963792" modified:"1600789776" priority:"L" status:"completed" tags:"college" until:"1600866993" uuid:"b7845e59-5ad8-426b-9283-309da969660a"]
+---
+time 1600794836
+old [description:"Do PROBABILIDADE test!" due:"1600838301" entry:"1600708701" modified:"1600708701" priority:"H" status:"pending" tags:"college,test" until:"1600924701" uuid:"1fa97287-4fbb-4108-9eb2-d19ba0413930"]
+new [description:"Do PROBABILIDADE test!" due:"1600838301" end:"1600794835" entry:"1600708701" modified:"1600794836" priority:"H" status:"completed" tags:"college,test" until:"1600924701" uuid:"1fa97287-4fbb-4108-9eb2-d19ba0413930"]
+---
+time 1600806421
+old [description:"Watch IBD class from 21\/09" due:"1600830000" entry:"1600693141" modified:"1600693141" status:"pending" tags:"class,college" until:"1600873200" uuid:"27355193-aa9a-4269-abf6-a51d61c3d160"]
+new [description:"Watch IBD class from 21\/09" due:"1600830000" end:"1600806421" entry:"1600693141" modified:"1600806421" status:"completed" tags:"class,college" until:"1600873200" uuid:"27355193-aa9a-4269-abf6-a51d61c3d160"]
+---
+time 1600807024
+new [description:"Do CALCULO II list Retas e Planos" due:"1601411824" entry:"1600807024" modified:"1600807024" status:"pending" tags:"college,list" until:"1601411824" uuid:"34c68581-867f-4593-b06f-c061be58f946"]
+---
+time 1600807613
+old [description:"Watch CALCULO II class from 21\/09" due:"1600830000" entry:"1600693154" modified:"1600693154" status:"pending" tags:"class,college" until:"1600873200" uuid:"72776ab9-55b3-472b-94b2-6338b252f792"]
+new [description:"Watch CALCULO II class from 21\/09" due:"1600830000" end:"1600807613" entry:"1600693154" modified:"1600807613" status:"completed" tags:"class,college" until:"1600873200" uuid:"72776ab9-55b3-472b-94b2-6338b252f792"]
+---
+time 1600811151
+old [description:"Watch ED class from 22\/09" due:"1600916400" entry:"1600779014" modified:"1600779014" status:"pending" tags:"college,class" until:"1601175600" uuid:"55e0ebc8-0a51-427e-90b5-7e01be14f94b"]
+new [description:"Watch ED class from 22\/09" due:"1600916400" entry:"1600779014" modified:"1600811151" start:"1600811149" status:"pending" tags:"college,class" until:"1601175600" uuid:"55e0ebc8-0a51-427e-90b5-7e01be14f94b"]
+---
+time 1600816531
+old [description:"Work on my Vimwiki" due:"1606791600" entry:"1600350337" mask:"+" modified:"1600434201" priority:"M" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+new [description:"Work on my Vimwiki" due:"1606791600" end:"1600816529" entry:"1600350337" mask:"+" modified:"1600816531" priority:"M" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" uuid:"ec6d6be1-16eb-47a7-b58d-32b246c8c90b"]
+---
+time 1600816536
+old [description:"Practice my WPM at the 10ff site" due:"1606791600" entry:"1600350356" mask:"+" modified:"1600434204" priority:"L" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+new [description:"Practice my WPM at the 10ff site" due:"1606791600" end:"1600816534" entry:"1600350356" mask:"+" modified:"1600816536" priority:"L" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" uuid:"a3b323db-3f3b-459e-8bc3-26456c108509"]
+---
+time 1600816610
+new [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" modified:"1600816610" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+---
+time 1600816628
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" modified:"1600816628" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+---
+time 1600816633
+new [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816633" imask:"0" modified:"1600816610" parent:"6d245aab-702c-4ec1-add4-3b2b74e495ae" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851810" uuid:"52686329-71e4-4466-8135-3d1e60e2f205"]
+---
+time 1600816633
+old [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" modified:"1600816610" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+new [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" mask:"-" modified:"1600816633" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+---
+time 1600816633
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816633" imask:"0" modified:"1600816628" parent:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851828" uuid:"f733c4f6-3db4-423d-8f04-5e0ce2e45c35"]
+---
+time 1600816633
+old [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" modified:"1600816628" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" mask:"-" modified:"1600816633" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+---
+time 1600816639
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" modified:"1600816639" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+---
+time 1600816640
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+---
+time 1600816640
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+---
+time 1600816640
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+---
+time 1600816641
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+---
+time 1600816641
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+---
+time 1600816641
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+---
+time 1600816641
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+---
+time 1600816647
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816647" imask:"0" modified:"1600816639" parent:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851839" uuid:"e0bcd510-18b3-42ac-bf6d-07a94127ee66"]
+---
+time 1600816647
+old [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" modified:"1600816639" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" mask:"-" modified:"1600816647" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+---
+time 1600816647
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816647" imask:"0" modified:"1600816640" parent:"328875f1-bc76-47de-88ed-8ef2f9797d7b" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"d64b12d4-dac0-48cb-bb16-ebb8d2ce58f1"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816648" imask:"0" modified:"1600816640" parent:"34c62f75-92b4-40c7-b346-2c039d1aec8c" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"b2c0d1d3-e441-46de-8319-9c35aec9ff71"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816648" imask:"0" modified:"1600816640" parent:"a71ead97-cf03-4ea1-8d47-92bb50682577" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"9a268b9a-8b65-49d9-9818-1069b14ee18b"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" modified:"1600816640" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"34fc6948-6bde-4ed6-a9a0-e11e74571250" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"ae3e1fcb-75cb-4d4e-8d27-5840e8f55638"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"9915c100-f706-4256-954c-3fdb59c2d4f8"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"1d180a92-c008-4d18-9316-b7be8b694799" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"b085ae03-3871-4520-b236-e12f589f4c0d"]
+---
+time 1600816648
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+---
+time 1600816648
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"9d97f71f-b7d0-46dd-ab84-c29f440caed9"]
+---
+time 1600816678
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816678" imask:"0" modified:"1600816641" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"3d86e495-0ec9-4521-b040-14aa8ff85684"]
+---
+time 1600816678
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" modified:"1600816641" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816678" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+---
+time 1600816699
+old [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" mask:"-" modified:"1600816647" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" mask:"X" modified:"1600816699" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+---
+time 1600816699
+old [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816647" imask:"0" modified:"1600816639" parent:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851839" uuid:"e0bcd510-18b3-42ac-bf6d-07a94127ee66"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" end:"1600816697" entry:"1600816647" imask:"0.000000" modified:"1600816699" parent:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851839" uuid:"e0bcd510-18b3-42ac-bf6d-07a94127ee66"]
+---
+time 1600816703
+old [description:"Practice my WPM at the 10ff site" due:"1608592639" entry:"1600816639" mask:"X" modified:"1600816699" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592639" end:"1600816703" entry:"1600816639" mask:"X" modified:"1600816703" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851839" uuid:"aee351bf-5d4c-44ef-8cb9-11e9cf14bc68"]
+---
+time 1600816703
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816703" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+---
+time 1600816703
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816647" imask:"0" modified:"1600816640" parent:"328875f1-bc76-47de-88ed-8ef2f9797d7b" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"d64b12d4-dac0-48cb-bb16-ebb8d2ce58f1"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816703" entry:"1600816647" imask:"0.000000" modified:"1600816703" parent:"328875f1-bc76-47de-88ed-8ef2f9797d7b" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"d64b12d4-dac0-48cb-bb16-ebb8d2ce58f1"]
+---
+time 1600816706
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816703" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816706" entry:"1600816640" mask:"X" modified:"1600816706" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"328875f1-bc76-47de-88ed-8ef2f9797d7b"]
+---
+time 1600816706
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816706" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+---
+time 1600816706
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816648" imask:"0" modified:"1600816640" parent:"34c62f75-92b4-40c7-b346-2c039d1aec8c" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"b2c0d1d3-e441-46de-8319-9c35aec9ff71"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816706" entry:"1600816648" imask:"0.000000" modified:"1600816706" parent:"34c62f75-92b4-40c7-b346-2c039d1aec8c" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"b2c0d1d3-e441-46de-8319-9c35aec9ff71"]
+---
+time 1600816707
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816706" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816707" entry:"1600816640" mask:"X" modified:"1600816707" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"34c62f75-92b4-40c7-b346-2c039d1aec8c"]
+---
+time 1600816707
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816707" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+---
+time 1600816707
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816648" imask:"0" modified:"1600816640" parent:"a71ead97-cf03-4ea1-8d47-92bb50682577" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851840" uuid:"9a268b9a-8b65-49d9-9818-1069b14ee18b"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816707" entry:"1600816648" imask:"0.000000" modified:"1600816707" parent:"a71ead97-cf03-4ea1-8d47-92bb50682577" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"9a268b9a-8b65-49d9-9818-1069b14ee18b"]
+---
+time 1600816708
+old [description:"Practice my WPM at the 10ff site" due:"1608592640" entry:"1600816640" mask:"X" modified:"1600816707" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592640" end:"1600816708" entry:"1600816640" mask:"X" modified:"1600816708" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851840" uuid:"a71ead97-cf03-4ea1-8d47-92bb50682577"]
+---
+time 1600816708
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816708" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+---
+time 1600816708
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"34fc6948-6bde-4ed6-a9a0-e11e74571250" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"ae3e1fcb-75cb-4d4e-8d27-5840e8f55638"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816708" entry:"1600816648" imask:"0.000000" modified:"1600816708" parent:"34fc6948-6bde-4ed6-a9a0-e11e74571250" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"ae3e1fcb-75cb-4d4e-8d27-5840e8f55638"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816708" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"34fc6948-6bde-4ed6-a9a0-e11e74571250"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"9915c100-f706-4256-954c-3fdb59c2d4f8"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816648" imask:"0.000000" modified:"1600816709" parent:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"9915c100-f706-4256-954c-3fdb59c2d4f8"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"b93b40af-77e2-4e12-85a8-0a7e87d3dd8f"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816648" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"1d180a92-c008-4d18-9316-b7be8b694799" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"b085ae03-3871-4520-b236-e12f589f4c0d"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816648" imask:"0.000000" modified:"1600816709" parent:"1d180a92-c008-4d18-9316-b7be8b694799" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"b085ae03-3871-4520-b236-e12f589f4c0d"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"1d180a92-c008-4d18-9316-b7be8b694799"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"-" modified:"1600816678" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+---
+time 1600816709
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816648" imask:"0" modified:"1600816641" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"9d97f71f-b7d0-46dd-ab84-c29f440caed9"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816709" entry:"1600816648" imask:"0.000000" modified:"1600816709" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"9d97f71f-b7d0-46dd-ab84-c29f440caed9"]
+---
+time 1600816710
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816678" imask:"0" modified:"1600816641" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851841" uuid:"3d86e495-0ec9-4521-b040-14aa8ff85684"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816710" entry:"1600816678" imask:"0.000000" modified:"1600816710" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"3d86e495-0ec9-4521-b040-14aa8ff85684"]
+---
+time 1600816710
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" entry:"1600816641" mask:"X" modified:"1600816709" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816710" entry:"1600816641" mask:"X" modified:"1600816710" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"b93e75e2-694a-4b5f-be7d-059cd40ff545"]
+---
+time 1600816710
+old [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816710" entry:"1600816678" imask:"0.000000" modified:"1600816710" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"3d86e495-0ec9-4521-b040-14aa8ff85684"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592641" end:"1600816710" entry:"1600816678" imask:"0.000000" modified:"1600816710" parent:"b93e75e2-694a-4b5f-be7d-059cd40ff545" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851841" uuid:"3d86e495-0ec9-4521-b040-14aa8ff85684"]
+---
+time 1600816732
+old [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" mask:"-" modified:"1600816633" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+new [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" mask:"X" modified:"1600816732" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+---
+time 1600816732
+old [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816633" imask:"0" modified:"1600816610" parent:"6d245aab-702c-4ec1-add4-3b2b74e495ae" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851810" uuid:"52686329-71e4-4466-8135-3d1e60e2f205"]
+new [description:"Work on my Vimwiki" due:"1608592610" end:"1600816731" entry:"1600816633" imask:"0.000000" modified:"1600816732" parent:"6d245aab-702c-4ec1-add4-3b2b74e495ae" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851810" uuid:"52686329-71e4-4466-8135-3d1e60e2f205"]
+---
+time 1600816733
+old [description:"Work on my Vimwiki" due:"1608592610" entry:"1600816610" mask:"X" modified:"1600816732" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+new [description:"Work on my Vimwiki" due:"1608592610" end:"1600816733" entry:"1600816610" mask:"X" modified:"1600816733" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851810" uuid:"6d245aab-702c-4ec1-add4-3b2b74e495ae"]
+---
+time 1600816733
+old [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" mask:"-" modified:"1600816633" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" mask:"X" modified:"1600816733" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+---
+time 1600816733
+old [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816633" imask:"0" modified:"1600816628" parent:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608851828" uuid:"f733c4f6-3db4-423d-8f04-5e0ce2e45c35"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" end:"1600816733" entry:"1600816633" imask:"0.000000" modified:"1600816733" parent:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851828" uuid:"f733c4f6-3db4-423d-8f04-5e0ce2e45c35"]
+---
+time 1600816734
+old [description:"Practice my WPM at the 10ff site" due:"1608592628" entry:"1600816628" mask:"X" modified:"1600816733" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592628" end:"1600816734" entry:"1600816628" mask:"X" modified:"1600816734" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608851828" uuid:"f9cc2d19-1f2d-4aea-bee4-783c1b0bfaab"]
+---
+time 1600816803
+new [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816803" modified:"1600816803" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+---
+time 1600816811
+new [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" modified:"1600816811" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+---
+time 1600816813
+new [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816813" imask:"0" modified:"1600816803" parent:"c09312a9-82c1-4767-9bd7-05ef15e869e4" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608852003" uuid:"59ac46b3-8793-4d30-9687-305a55c81106"]
+---
+time 1600816813
+old [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816803" modified:"1600816803" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+new [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816803" mask:"-" modified:"1600816813" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+---
+time 1600816813
+new [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816813" imask:"0" modified:"1600816811" parent:"a4002590-a172-42b7-acea-3264785888f5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608852011" uuid:"933a1d32-e77a-4554-b180-1343b10279df"]
+---
+time 1600816813
+old [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" modified:"1600816811" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" mask:"-" modified:"1600816813" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+---
+time 1600816834
+old [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" mask:"-" modified:"1600816813" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" mask:"+" modified:"1600816834" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+---
+time 1600816834
+old [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816813" imask:"0" modified:"1600816811" parent:"a4002590-a172-42b7-acea-3264785888f5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608852011" uuid:"933a1d32-e77a-4554-b180-1343b10279df"]
+new [description:"Practice my WPM at the 10ff site" due:"1608592811" end:"1600816834" entry:"1600816813" imask:"0.000000" modified:"1600816834" parent:"a4002590-a172-42b7-acea-3264785888f5" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608852011" uuid:"933a1d32-e77a-4554-b180-1343b10279df"]
+---
+time 1600817172
+old [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816803" mask:"-" modified:"1600816813" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+new [annotation_1600817171:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817171" entry:"1600816803" mask:"-" modified:"1600817172" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+---
+time 1600817174
+old [annotation_1600817171:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817171" entry:"1600816803" mask:"-" modified:"1600817172" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+new [annotation_1600817171:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817171" entry:"1600816803" mask:"X" modified:"1600817174" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"c09312a9-82c1-4767-9bd7-05ef15e869e4"]
+---
+time 1600817174
+old [description:"Work on my Vimwiki" due:"1608592803" entry:"1600816813" imask:"0" modified:"1600816803" parent:"c09312a9-82c1-4767-9bd7-05ef15e869e4" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608852003" uuid:"59ac46b3-8793-4d30-9687-305a55c81106"]
+new [annotation_1600817174:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817174" entry:"1600816813" imask:"0.000000" modified:"1600817174" parent:"c09312a9-82c1-4767-9bd7-05ef15e869e4" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"59ac46b3-8793-4d30-9687-305a55c81106"]
+---
+time 1600817174
+old [description:"Practice my WPM at the 10ff site" due:"1608592811" entry:"1600816811" mask:"+" modified:"1600816834" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+new [annotation_1600817174:"and purge" description:"Practice my WPM at the 10ff site" due:"1608592811" end:"1600817174" entry:"1600816811" mask:"+" modified:"1600817174" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852011" uuid:"a4002590-a172-42b7-acea-3264785888f5"]
+---
+time 1600817174
+old [annotation_1600817174:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817174" entry:"1600816813" imask:"0.000000" modified:"1600817174" parent:"c09312a9-82c1-4767-9bd7-05ef15e869e4" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"59ac46b3-8793-4d30-9687-305a55c81106"]
+new [annotation_1600817174:"and purge" description:"Work on my Vimwiki" due:"1608592803" end:"1600817174" entry:"1600816813" imask:"0.000000" modified:"1600817174" parent:"c09312a9-82c1-4767-9bd7-05ef15e869e4" recur:"daily" rtype:"periodic" status:"deleted" tags:"personal" until:"1608852003" uuid:"59ac46b3-8793-4d30-9687-305a55c81106"]
+---
+time 1600817344
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" modified:"1600817344" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600817359
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" modified:"1600817359" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600817364
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817364" imask:"0" modified:"1600817344" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"a8e44f37-91d7-41b5-a679-4303c6d9ab73"]
+---
+time 1600817364
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" modified:"1600817344" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"-" modified:"1600817364" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600817364
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817364" imask:"0" modified:"1600817359" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"479ac5a4-383a-4593-99d5-be5c53c1fea0"]
+---
+time 1600817364
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" modified:"1600817359" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"-" modified:"1600817364" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600817391
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"-" modified:"1600817364" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+" modified:"1600817391" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600817391
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817364" imask:"0" modified:"1600817344" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"a8e44f37-91d7-41b5-a679-4303c6d9ab73"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" end:"1600817391" entry:"1600817364" imask:"0.000000" modified:"1600817391" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593344" uuid:"a8e44f37-91d7-41b5-a679-4303c6d9ab73"]
+---
+time 1600817396
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"-" modified:"1600817364" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+" modified:"1600817396" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600817396
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817364" imask:"0" modified:"1600817359" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"479ac5a4-383a-4593-99d5-be5c53c1fea0"]
+new [description:"Work on my Vimwiki" due:"1600851600" end:"1600817396" entry:"1600817364" imask:"0.000000" modified:"1600817396" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593359" uuid:"479ac5a4-383a-4593-99d5-be5c53c1fea0"]
+---
+time 1600817899
+old [description:"Watch ED class from 22\/09" due:"1600916400" entry:"1600779014" modified:"1600811151" start:"1600811149" status:"pending" tags:"college,class" until:"1601175600" uuid:"55e0ebc8-0a51-427e-90b5-7e01be14f94b"]
+new [description:"Watch ED class from 22\/09" due:"1600916400" end:"1600817899" entry:"1600779014" modified:"1600817899" status:"completed" tags:"college,class" until:"1601175600" uuid:"55e0ebc8-0a51-427e-90b5-7e01be14f94b"]
+---
+time 1600819777
+old [description:"Watch ISL class from 21\/09" due:"1600830000" entry:"1600693164" modified:"1600693164" status:"pending" tags:"class,college" until:"1600873200" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+new [description:"Watch ISL class from 21\/09" due:"1600884577" entry:"1600693164" modified:"1600819777" status:"pending" tags:"class,college" until:"1600895377" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+---
+time 1600859428
+new [description:"Enter SodreSantoro char for my dad" due:"1600941600" entry:"1600859428" modified:"1600859428" priority:"H" status:"pending" tags:"personal" until:"1600948800" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+---
+time 1600859434
+new [description:"Practice my WPM at the 10ff site" due:"1600938000" entry:"1600859434" imask:"1" modified:"1600817391" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"91f4fb8e-659a-4e73-bafc-d9c5bca29695"]
+---
+time 1600859434
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+" modified:"1600817391" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+-" modified:"1600859434" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600859434
+new [description:"Work on my Vimwiki" due:"1600938000" entry:"1600859434" imask:"1" modified:"1600817396" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"26be401b-baeb-415e-b80f-bcb73ad27fe5"]
+---
+time 1600859434
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+" modified:"1600817396" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+-" modified:"1600859434" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600859479
+new [description:"Watch IBD class from 23\/09" due:"1601089200" entry:"1600859479" modified:"1600859479" status:"pending" tags:"college,class" until:"1601348400" uuid:"513303f0-31b1-46e7-8b0b-a2b1da946460"]
+---
+time 1600859489
+new [description:"Watch CALCULO II class from 23\/09" due:"1601089200" entry:"1600859489" modified:"1600859489" status:"pending" tags:"college,class" until:"1601348400" uuid:"406d9691-f592-4b35-a7a9-5f791fb7a59f"]
+---
+time 1600859502
+new [description:"Watch ISL class from 23\/09" due:"1601089200" entry:"1600859502" modified:"1600859502" status:"pending" tags:"college,class" until:"1601348400" uuid:"6d6cae55-c31b-4a56-97ad-946c5c4fae62"]
+---
+time 1600859552
+old [description:"Enter SodreSantoro char for my dad" due:"1600941600" entry:"1600859428" modified:"1600859428" priority:"H" status:"pending" tags:"personal" until:"1600948800" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+new [description:"Enter SodreSantoro char for my dad" due:"1600866000" entry:"1600859428" modified:"1600859552" priority:"H" status:"pending" tags:"personal" until:"1600873200" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+---
+time 1600859601
+old [description:"Watch ISL class from 21\/09" due:"1600884577" entry:"1600693164" modified:"1600819777" status:"pending" tags:"class,college" until:"1600895377" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+new [description:"Watch ISL class from 21\/09" due:"1600946001" entry:"1600693164" modified:"1600859601" status:"pending" tags:"class,college" until:"1600964001" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+---
+time 1600861334
+old [description:"Work on my Vimwiki" due:"1600938000" entry:"1600859434" imask:"1" modified:"1600817396" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"26be401b-baeb-415e-b80f-bcb73ad27fe5"]
+new [description:"Work on my Vimwiki" due:"1600938000" entry:"1600859434" imask:"1.000000" modified:"1600861334" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1600861333" status:"pending" tags:"personal" until:"1608593359" uuid:"26be401b-baeb-415e-b80f-bcb73ad27fe5"]
+---
+time 1600866847
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+-" modified:"1600859434" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"++" modified:"1600866847" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600866847
+old [description:"Work on my Vimwiki" due:"1600938000" entry:"1600859434" imask:"1.000000" modified:"1600861334" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1600861333" status:"pending" tags:"personal" until:"1608593359" uuid:"26be401b-baeb-415e-b80f-bcb73ad27fe5"]
+new [description:"Work on my Vimwiki" due:"1600938000" end:"1600866847" entry:"1600859434" imask:"1.000000" modified:"1600866847" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593359" uuid:"26be401b-baeb-415e-b80f-bcb73ad27fe5"]
+---
+time 1600866865
+old [description:"Enter SodreSantoro char for my dad" due:"1600866000" entry:"1600859428" modified:"1600859552" priority:"H" status:"pending" tags:"personal" until:"1600873200" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+new [description:"Enter SodreSantoro char for my dad" due:"1600866000" entry:"1600859428" modified:"1600866865" priority:"H" start:"1600866865" status:"pending" tags:"personal" until:"1600873200" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+---
+time 1600870222
+old [description:"Enter SodreSantoro char for my dad" due:"1600866000" entry:"1600859428" modified:"1600866865" priority:"H" start:"1600866865" status:"pending" tags:"personal" until:"1600873200" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+new [description:"Enter SodreSantoro char for my dad" due:"1600866000" end:"1600870221" entry:"1600859428" modified:"1600870222" priority:"H" status:"completed" tags:"personal" until:"1600873200" uuid:"adf9912e-368e-4031-9261-6634e33d1e2d"]
+---
+time 1600870233
+old [description:"Watch ISL class from 21\/09" due:"1600946001" entry:"1600693164" modified:"1600859601" status:"pending" tags:"class,college" until:"1600964001" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+new [description:"Watch ISL class from 21\/09" due:"1600946001" entry:"1600693164" modified:"1600870233" start:"1600870233" status:"pending" tags:"class,college" until:"1600964001" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+---
+time 1600871435
+old [description:"Watch ISL class from 21\/09" due:"1600946001" entry:"1600693164" modified:"1600870233" start:"1600870233" status:"pending" tags:"class,college" until:"1600964001" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+new [description:"Watch ISL class from 21\/09" due:"1600946001" end:"1600871435" entry:"1600693164" modified:"1600871435" status:"completed" tags:"class,college" until:"1600964001" uuid:"522bb296-ce92-4e53-8d55-8af72db0cc08"]
+---
+time 1600871528
+old [description:"Practice my WPM at the 10ff site" due:"1600938000" entry:"1600859434" imask:"1" modified:"1600817391" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"91f4fb8e-659a-4e73-bafc-d9c5bca29695"]
+new [description:"Practice my WPM at the 10ff site" due:"1600938000" entry:"1600859434" imask:"1.000000" modified:"1600871528" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" start:"1600871528" status:"pending" tags:"personal" until:"1608593344" uuid:"91f4fb8e-659a-4e73-bafc-d9c5bca29695"]
+---
+time 1600871851
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+-" modified:"1600859434" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"++" modified:"1600871851" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600871851
+old [description:"Practice my WPM at the 10ff site" due:"1600938000" entry:"1600859434" imask:"1.000000" modified:"1600871528" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" start:"1600871528" status:"pending" tags:"personal" until:"1608593344" uuid:"91f4fb8e-659a-4e73-bafc-d9c5bca29695"]
+new [description:"Practice my WPM at the 10ff site" due:"1600938000" end:"1600871851" entry:"1600859434" imask:"1.000000" modified:"1600871851" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593344" uuid:"91f4fb8e-659a-4e73-bafc-d9c5bca29695"]
+---
+time 1600880293
+new [description:"Do IBD TP1" due:"1602122400" entry:"1600880293" modified:"1600880293" status:"pending" tags:"college,tp" until:"1602129600" uuid:"f9fdd587-8330-4e24-8093-cd3ea0941bc7"]
+---
+time 1600880440
+old [description:"Watch IBD class from 23\/09" due:"1601089200" entry:"1600859479" modified:"1600859479" status:"pending" tags:"college,class" until:"1601348400" uuid:"513303f0-31b1-46e7-8b0b-a2b1da946460"]
+new [description:"Watch IBD class from 23\/09" due:"1601089200" end:"1600880440" entry:"1600859479" modified:"1600880440" status:"completed" tags:"college,class" until:"1601348400" uuid:"513303f0-31b1-46e7-8b0b-a2b1da946460"]
+---
+time 1600881442
+new [description:"Do CALCULO II list Cilindros e Quádricas" due:"1601240400" entry:"1600881442" modified:"1600881442" status:"pending" tags:"college,list" until:"1601251200" uuid:"9b032b09-446c-43ca-b8a8-d3ef7c586200"]
+---
+time 1600881477
+old [description:"Do CALCULO II list Retas e Planos" due:"1601411824" entry:"1600807024" modified:"1600807024" status:"pending" tags:"college,list" until:"1601411824" uuid:"34c68581-867f-4593-b06f-c061be58f946"]
+new [description:"Do CALCULO II list Retas e Planos" due:"1601154000" entry:"1600807024" modified:"1600881477" status:"pending" tags:"college,list" until:"1601168400" uuid:"34c68581-867f-4593-b06f-c061be58f946"]
+---
+time 1600881634
+old [description:"Watch CALCULO II class from 23\/09" due:"1601089200" entry:"1600859489" modified:"1600859489" status:"pending" tags:"college,class" until:"1601348400" uuid:"406d9691-f592-4b35-a7a9-5f791fb7a59f"]
+new [description:"Watch CALCULO II class from 23\/09" due:"1601089200" entry:"1600859489" modified:"1600881634" start:"1600881634" status:"pending" tags:"college,class" until:"1601348400" uuid:"406d9691-f592-4b35-a7a9-5f791fb7a59f"]
+---
+time 1600881639
+old [description:"Watch CALCULO II class from 23\/09" due:"1601089200" entry:"1600859489" modified:"1600881634" start:"1600881634" status:"pending" tags:"college,class" until:"1601348400" uuid:"406d9691-f592-4b35-a7a9-5f791fb7a59f"]
+new [description:"Watch CALCULO II class from 23\/09" due:"1601089200" end:"1600881639" entry:"1600859489" modified:"1600881639" status:"completed" tags:"college,class" until:"1601348400" uuid:"406d9691-f592-4b35-a7a9-5f791fb7a59f"]
+---
+time 1600947175
+new [description:"Practice my WPM at the 10ff site" due:"1601024400" entry:"1600947175" imask:"2" modified:"1600871851" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"9d67cec1-d472-4750-81f7-a8c49f7c23fc"]
+---
+time 1600947175
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"++" modified:"1600871851" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"++-" modified:"1600947175" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600947175
+new [description:"Work on my Vimwiki" due:"1601024400" entry:"1600947175" imask:"2" modified:"1600866847" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"d2eaff4c-9e44-4499-ad60-f24099f4e107"]
+---
+time 1600947175
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"++" modified:"1600866847" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"++-" modified:"1600947175" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600947215
+new [description:"Watch ED class from 24\/09" due:"1601240400" entry:"1600947215" modified:"1600947215" status:"pending" tags:"college,class" until:"1601499600" uuid:"38050e0f-2e73-49a5-aa0a-55b7e657e974"]
+---
+time 1600947226
+new [description:"Watch PROBABILIDADE class from 24\/09" due:"1601240400" entry:"1600947226" modified:"1600947226" status:"pending" tags:"college,class" until:"1601499600" uuid:"9d7c1ae7-fc34-4a06-8108-869fb0afa658"]
+---
+time 1600947229
+new [description:"Watch PROBABILIDADE class from 24\/09" due:"1601240400" entry:"1600947229" modified:"1600947229" status:"pending" tags:"college,class" until:"1601499600" uuid:"2be69d79-29de-4820-b1bd-c4c7e367e76b"]
+---
+time 1600947243
+old [description:"Watch PROBABILIDADE class from 24\/09" due:"1601240400" entry:"1600947229" modified:"1600947229" status:"pending" tags:"college,class" until:"1601499600" uuid:"2be69d79-29de-4820-b1bd-c4c7e367e76b"]
+new [description:"Watch PROBABILIDADE class from 24\/09" due:"1601240400" end:"1600947242" entry:"1600947229" modified:"1600947243" status:"deleted" tags:"college,class" until:"1601499600" uuid:"2be69d79-29de-4820-b1bd-c4c7e367e76b"]
+---
+time 1600959347
+old [description:"Work on my Vimwiki" due:"1601024400" entry:"1600947175" imask:"2" modified:"1600866847" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"d2eaff4c-9e44-4499-ad60-f24099f4e107"]
+new [description:"Work on my Vimwiki" due:"1601024400" entry:"1600947175" imask:"2.000000" modified:"1600959347" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1600959347" status:"pending" tags:"personal" until:"1608593359" uuid:"d2eaff4c-9e44-4499-ad60-f24099f4e107"]
+---
+time 1600961064
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"++-" modified:"1600947175" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+++" modified:"1600961064" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1600961064
+old [description:"Work on my Vimwiki" due:"1601024400" entry:"1600947175" imask:"2.000000" modified:"1600959347" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1600959347" status:"pending" tags:"personal" until:"1608593359" uuid:"d2eaff4c-9e44-4499-ad60-f24099f4e107"]
+new [description:"Work on my Vimwiki" due:"1601024400" end:"1600961064" entry:"1600947175" imask:"2.000000" modified:"1600961064" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593359" uuid:"d2eaff4c-9e44-4499-ad60-f24099f4e107"]
+---
+time 1600967618
+old [description:"Watch ED class from 24\/09" due:"1601240400" entry:"1600947215" modified:"1600947215" status:"pending" tags:"college,class" until:"1601499600" uuid:"38050e0f-2e73-49a5-aa0a-55b7e657e974"]
+new [description:"Watch ED class from 24\/09" due:"1601240400" entry:"1600947215" modified:"1600967618" start:"1600967615" status:"pending" tags:"college,class" until:"1601499600" uuid:"38050e0f-2e73-49a5-aa0a-55b7e657e974"]
+---
+time 1600969421
+old [description:"Watch ED class from 24\/09" due:"1601240400" entry:"1600947215" modified:"1600967618" start:"1600967615" status:"pending" tags:"college,class" until:"1601499600" uuid:"38050e0f-2e73-49a5-aa0a-55b7e657e974"]
+new [description:"Watch ED class from 24\/09" due:"1601240400" end:"1600969421" entry:"1600947215" modified:"1600969421" status:"completed" tags:"college,class" until:"1601499600" uuid:"38050e0f-2e73-49a5-aa0a-55b7e657e974"]
+---
+time 1600973064
+old [description:"Do IBD TP1" due:"1602122400" entry:"1600880293" modified:"1600880293" status:"pending" tags:"college,tp" until:"1602129600" uuid:"f9fdd587-8330-4e24-8093-cd3ea0941bc7"]
+new [description:"Do IBD TP1" due:"1602122400" end:"1600973063" entry:"1600880293" modified:"1600973064" status:"completed" tags:"college,tp" until:"1602129600" uuid:"f9fdd587-8330-4e24-8093-cd3ea0941bc7"]
+---
+time 1600973164
+new [description:"Do IBD TP1" due:"1602122400" entry:"1600973164" modified:"1600973164" status:"pending" tags:"college,tp" until:"1602129600" uuid:"109a9f5d-e159-4b8c-a5d8-c6c059795472"]
+---
+time 1600973168
+old [description:"Hear Shalfi s new album on spotify" due:"1601175600" entry:"1600782142" modified:"1600782142" status:"pending" tags:"personal" until:"1601218800" uuid:"4eba5707-9900-436a-be74-6cbf1638de15"]
+new [description:"Hear Shalfi s new album on spotify" due:"1601175600" end:"1600973168" entry:"1600782142" modified:"1600973168" status:"completed" tags:"personal" until:"1601218800" uuid:"4eba5707-9900-436a-be74-6cbf1638de15"]
+---
+time 1600973275
+old [description:"Work on my Vimwiki wiki" due:"1600134479" end:"1600191993" entry:"1599961589" mask:"++" modified:"1600191993" priority:"M" recur:"2day" rtype:"periodic" status:"deleted" tags:"personal" until:"1600220879" uuid:"fcc54630-c91e-43e5-9ab8-ed698c650ae8"]
+new [description:"Work on my Vimwiki wiki" due:"1600134479" end:"1600191993" entry:"1599961589" mask:"X+" modified:"1600973275" priority:"M" recur:"2day" rtype:"periodic" status:"deleted" tags:"personal" until:"1600220879" uuid:"fcc54630-c91e-43e5-9ab8-ed698c650ae8"]
+---
+time 1600973275
+old [description:"Work on my Vimwiki wiki" due:"1600134479" end:"1599961928" entry:"1599961719" imask:"0.000000" modified:"1599961928" parent:"fcc54630-c91e-43e5-9ab8-ed698c650ae8" priority:"M" recur:"2day" rtype:"periodic" status:"completed" tags:"personal" until:"1600220879" uuid:"18f3ed0c-6a01-47fd-9a69-6d3cf426aa20"]
+new [description:"Work on my Vimwiki wiki" due:"1600134479" end:"1599961928" entry:"1599961719" imask:"0.000000" modified:"1600973275" parent:"fcc54630-c91e-43e5-9ab8-ed698c650ae8" priority:"M" recur:"2day" rtype:"periodic" status:"deleted" tags:"personal" until:"1600220879" uuid:"18f3ed0c-6a01-47fd-9a69-6d3cf426aa20"]
+---
+time 1600975988
+old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75" description:"Watch video 6 of CERO course" entry:"1599962786" modified:"1599962858" priority:"M" project:"CERO" status:"pending" tags:"cybersec" uuid:"f9e09c64-1b28-4c5b-98ea-15b7d02461ad"]
+new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75" description:"Watch video 6 of CERO course" entry:"1599962786" modified:"1600975988" priority:"M" project:"CERO" start:"1600975987" status:"pending" tags:"cybersec" uuid:"f9e09c64-1b28-4c5b-98ea-15b7d02461ad"]
+---
+time 1600977063
+old [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75" description:"Watch video 6 of CERO course" entry:"1599962786" modified:"1600975988" priority:"M" project:"CERO" start:"1600975987" status:"pending" tags:"cybersec" uuid:"f9e09c64-1b28-4c5b-98ea-15b7d02461ad"]
+new [annotation_1599962858:"Remember to fill your Vimwiki with it!" depends:"2b7df8b4-47d8-4528-a9ff-427aa5efeb75" description:"Watch video 6 of CERO course" end:"1600977061" entry:"1599962786" modified:"1600977063" priority:"M" project:"CERO" status:"completed" tags:"cybersec" uuid:"f9e09c64-1b28-4c5b-98ea-15b7d02461ad"]
+---
+time 1600992344
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"++-" modified:"1600947175" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+++" modified:"1600992344" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1600992344
+old [description:"Practice my WPM at the 10ff site" due:"1601024400" entry:"1600947175" imask:"2" modified:"1600871851" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"9d67cec1-d472-4750-81f7-a8c49f7c23fc"]
+new [description:"Practice my WPM at the 10ff site" due:"1601024400" end:"1600992344" entry:"1600947175" imask:"2.000000" modified:"1600992344" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1608593344" uuid:"9d67cec1-d472-4750-81f7-a8c49f7c23fc"]
+---
+time 1601035971
+new [description:"Practice my WPM at the 10ff site" due:"1601110800" entry:"1601035971" imask:"3" modified:"1600992344" parent:"9070ca16-dba5-4516-9443-e21b753bd766" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593344" uuid:"3ce19172-991e-47ba-a3b4-5b9549b7146e"]
+---
+time 1601035972
+old [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+++" modified:"1600992344" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+new [description:"Practice my WPM at the 10ff site" due:"1600851600" entry:"1600817344" mask:"+++-" modified:"1601035972" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593344" uuid:"9070ca16-dba5-4516-9443-e21b753bd766"]
+---
+time 1601035972
+new [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3" modified:"1600961064" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+---
+time 1601035972
+old [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+++" modified:"1600961064" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+new [description:"Work on my Vimwiki" due:"1600851600" entry:"1600817359" mask:"+++-" modified:"1601035972" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608593359" uuid:"cb7a5e69-813f-4005-b770-cdd258af25ce"]
+---
+time 1601037603
+old [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3" modified:"1600961064" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+new [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3.000000" modified:"1601037603" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1601037602" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+---
+time 1601037828
+old [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3.000000" modified:"1601037603" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1601037602" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+new [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3.000000" modified:"1601037828" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+---
+time 1601038903
+old [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3.000000" modified:"1601037828" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+new [description:"Work on my Vimwiki" due:"1601110800" entry:"1601035972" imask:"3.000000" modified:"1601038903" parent:"cb7a5e69-813f-4005-b770-cdd258af25ce" recur:"daily" rtype:"periodic" start:"1601038903" status:"pending" tags:"personal" until:"1608593359" uuid:"57d66dda-0cad-4a3c-9ef6-d07a3efcecd9"]
+---

@@ -4,14 +4,16 @@ In this dotfiles repo I have:
 
 a) .vimr
 
-b) .tmux.conf
+b) .vim/after/syntax/vimwiki.vim
 
-c) .bashrc
+c) .tmux.conf
 
-d) .git-completion.bash
+d) .bashrc
 
-e) .taskrc
+e) .git-completion.bash
 
-f) .task folder
+f) .taskrc
 
-g) .timewarrior folder
+g) .task folder
+
+h) .timewarrior folder
