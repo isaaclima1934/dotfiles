@@ -574,3 +574,1333 @@ txn:
   type: interval
   before: 
   after: {"start":"20200925T130143Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200925T130143Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T130143Z","end":"20200925T135921Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200925T140217Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200925T140217Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T140217Z","end":"20200925T141127Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200925T180153Z","tags":["Watch PROBABILIDADE class from 24/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200925T180153Z","tags":["Watch PROBABILIDADE class from 24/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T180153Z","end":"20200925T185312Z","tags":["Watch PROBABILIDADE class from 24/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200925T185412Z","tags":["Watch ISL class from 23/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200925T185412Z","tags":["Watch ISL class from 23/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T185412Z","end":"20200925T185529Z","tags":["Watch ISL class from 23/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200925T190426Z","tags":["Watch ISL class from 23/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200925T190426Z","tags":["Watch ISL class from 23/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T190426Z","end":"20200925T191723Z","tags":["Watch ISL class from 23/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200925T200802Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200925T200802Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200925T200802Z","end":"20200926T120554Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200925T200802Z","end":"20200926T120554Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200926T155731Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200926T155731Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200926T155731Z","end":"20200926T163643Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200926T181923Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200926T181923Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200926T181923Z","end":"20200926T184002Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200926T181923Z","end":"20200926T184002Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200926T181923Z","end":"20200926T185002Z","tags":["CERO","Watch video 7 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T120348Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200927T120348Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T120348Z","end":"20200927T122138Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T134604Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200927T134604Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T134604Z","end":"20200927T150257Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T164037Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200927T164037Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T164037Z","end":"20200927T180856Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T183753Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200927T183753Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T183753Z","end":"20200927T190110Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T204059Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20200927T204059Z","tags":["Do IBD TP1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T204059Z","end":"20200927T210442Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200927T220545Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20200927T220545Z","tags":["Do IBD TP1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200927T220545Z","end":"20200927T225720Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T013225Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20200928T013225Z","tags":["Do IBD TP1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T013225Z","end":"20200928T020433Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T111548Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20200928T111548Z","tags":["Do IBD TP1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T111548Z","end":"20200928T122637Z","tags":["Do IBD TP1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T130422Z","tags":["DO ED list Métodos de Ordenação","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20200928T130422Z","tags":["DO ED list Métodos de Ordenação","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T130422Z","end":"20200928T140808Z","tags":["DO ED list Métodos de Ordenação","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T170236Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200928T170236Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T170236Z","end":"20200928T180814Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T181332Z","tags":["Watch IBD class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200928T181332Z","tags":["Watch IBD class from 28/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T181332Z","end":"20200928T184017Z","tags":["Watch IBD class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T191017Z","tags":["Watch IBD class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200928T191017Z","tags":["Watch IBD class from 28/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T191017Z","end":"20200928T192359Z","tags":["Watch IBD class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T195240Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200928T195240Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T195240Z","end":"20200928T195930Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T195948Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200928T195948Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T195948Z","end":"20200928T202936Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T204820Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200928T204820Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T204820Z","end":"20200928T211103Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T212502Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200928T212502Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T212502Z","end":"20200928T212514Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T212529Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200928T212529Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T212529Z","end":"20200928T212533Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T212540Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200928T212540Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T212540Z","end":"20200928T212549Z","tags":["CERO","Watch video 8 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200928T212604Z","tags":["CERO","Watch video 9 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200928T212604Z","tags":["CERO","Watch video 9 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200928T212604Z","end":"20200928T212942Z","tags":["CERO","Watch video 9 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T121331Z","tags":["Watch ISL class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200929T121331Z","tags":["Watch ISL class from 28/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T121331Z","end":"20200929T122753Z","tags":["Watch ISL class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T125033Z","tags":["Watch ISL class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200929T125033Z","tags":["Watch ISL class from 28/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T125033Z","end":"20200929T131456Z","tags":["Watch ISL class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T131711Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200929T131711Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T131711Z","end":"20200929T135515Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T135610Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200929T135610Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T135610Z","end":"20200929T140224Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T180157Z","tags":["Watch CALCULO II class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200929T180157Z","tags":["Watch CALCULO II class from 28/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T180157Z","end":"20200929T180901Z","tags":["Watch CALCULO II class from 28/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200929T235253Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200929T235253Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200929T235253Z","end":"20200930T001521Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T001914Z","tags":["Watch ED class from 29/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T001914Z","tags":["Watch ED class from 29/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T001914Z","end":"20200930T003127Z","tags":["Watch ED class from 29/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T123711Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200930T123711Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T123711Z","end":"20200930T134754Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T135120Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20200930T135120Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T135120Z","end":"20200930T135546Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T135604Z","tags":["Fazendo","faixa"]}
+txn:
+  type: interval
+  before: {"start":"20200930T135604Z","tags":["Fazendo","faixa"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T135604Z","end":"20200930T141457Z","tags":["Fazendo","faixa"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T141830Z","tags":["Watch PROBABILIDADE class from 29/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T141830Z","tags":["Watch PROBABILIDADE class from 29/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T141830Z","end":"20200930T152149Z","tags":["Watch PROBABILIDADE class from 29/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T224607Z","tags":["Watch IBD class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T224607Z","tags":["Watch IBD class from 30/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T224607Z","end":"20200930T224610Z","tags":["Watch IBD class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T224607Z","end":"20200930T224610Z","tags":["Watch IBD class from 30/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T224607Z","end":"20200930T231610Z","tags":["Watch IBD class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T231906Z","tags":["Watch CALCULO II class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T231906Z","tags":["Watch CALCULO II class from 30/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T231906Z","end":"20200930T231911Z","tags":["Watch CALCULO II class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20200930T231906Z","end":"20200930T231911Z","tags":["Watch CALCULO II class from 30/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T231906Z","end":"20200930T233111Z","tags":["Watch CALCULO II class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T233237Z","tags":["CERO","Watch video 10 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200930T233237Z","tags":["CERO","Watch video 10 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T233237Z","end":"20200930T235902Z","tags":["CERO","Watch video 10 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20200930T235913Z","tags":["CERO","Watch video 11 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20200930T235913Z","tags":["CERO","Watch video 11 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20200930T235913Z","end":"20201001T003051Z","tags":["CERO","Watch video 11 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201001T130339Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201001T130339Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201001T130339Z","end":"20201001T132526Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201001T132530Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201001T132530Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201001T132530Z","end":"20201001T133900Z","tags":["CERO","Watch video 12 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201001T184942Z","tags":["Watch PROBABILIDADE class from 1/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201001T184942Z","tags":["Watch PROBABILIDADE class from 1/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201001T184942Z","end":"20201001T193025Z","tags":["Watch PROBABILIDADE class from 1/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T131327Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201002T131327Z","tags":["Work on my Vimwiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T131327Z","end":"20201002T135646Z","tags":["Work on my Vimwiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T135825Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201002T135825Z","tags":["Practice my WPM at the 10ff site","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T135825Z","end":"20201002T140257Z","tags":["Practice my WPM at the 10ff site","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T140929Z","tags":["CERO","Watch video 14 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201002T140929Z","tags":["CERO","Watch video 14 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T140929Z","end":"20201002T144613Z","tags":["CERO","Watch video 14 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T144624Z","tags":["CERO","Watch video 15 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201002T144624Z","tags":["CERO","Watch video 15 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T144624Z","end":"20201002T150147Z","tags":["CERO","Watch video 15 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T173151Z","tags":["Watch ISL class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201002T173151Z","tags":["Watch ISL class from 30/09","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T173151Z","end":"20201002T180106Z","tags":["Watch ISL class from 30/09","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T180312Z","tags":["Watch first episode of I'm Standing on 1000000 anime","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201002T180312Z","tags":["Watch first episode of I'm Standing on 1000000 anime","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T180312Z","end":"20201002T182139Z","tags":["Watch first episode of I'm Standing on 1000000 anime","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T235839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201002T235839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T235839Z","end":"20201002T235839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201002T235839Z","end":"20201002T235839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T235839Z","end":"20201003T002139Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201002T190400Z","end":"20201002T214800Z","tags":["At TryHackMe"]}
+txn:
+  type: interval
+  before: {"start":"20201002T190400Z","end":"20201002T214800Z","tags":["At TryHackMe"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T190400Z","end":"20201002T214823Z","tags":["At TryHackMe"]}
+txn:
+  type: interval
+  before: {"start":"20201002T235839Z","end":"20201003T002139Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201002T235839Z","end":"20201003T002155Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201003T130000Z","end":"20201003T170000Z","tags":["creating pong clone"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201003T205838Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201003T205838Z","tags":["Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201003T205838Z","end":"20201004T000450Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201004T020424Z","tags":["22:00-23:04","Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201004T020424Z","tags":["22:00-23:04","Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201004T020424Z","end":"20201004T020433Z","tags":["22:00-23:04","Do ED TP2","college","tp"]}
+  type: interval
+  before: 
+  after: {"start":"20201004T020433Z","tags":["22:00-23:00","Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201004T010000Z","end":"20201004T020400Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201004T020433Z","tags":["22:00-23:00","Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: {"start":"20201004T020424Z","end":"20201004T020433Z","tags":["22:00-23:04","Do ED TP2","college","tp"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201004T110422Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201004T110422Z","tags":["Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201004T110422Z","end":"20201004T145002Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201004T182546Z","tags":["Do IBD list EX5","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20201004T182546Z","tags":["Do IBD list EX5","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201004T182546Z","end":"20201004T220505Z","tags":["Do IBD list EX5","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201004T235251Z","tags":["CERO","Watch video 16 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201004T235251Z","tags":["CERO","Watch video 16 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201004T235251Z","end":"20201005T000520Z","tags":["CERO","Watch video 16 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T000557Z","tags":["CERO","Watch video 17 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T000557Z","tags":["CERO","Watch video 17 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T000557Z","end":"20201005T002129Z","tags":["CERO","Watch video 17 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T002145Z","tags":["CERO","Watch video 18 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T002145Z","tags":["CERO","Watch video 18 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T002145Z","end":"20201005T003325Z","tags":["CERO","Watch video 18 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T141303Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201005T141303Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T141303Z","end":"20201005T143606Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201005T141303Z","end":"20201005T143606Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T141303Z","end":"20201005T144206Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201005T141303Z","end":"20201005T144206Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T141303Z","end":"20201005T143706Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T143738Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201005T143738Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T143738Z","end":"20201005T151118Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T174626Z","tags":["Study for CALCULO II test","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201005T174626Z","tags":["Study for CALCULO II test","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T174626Z"}
+txn:
+  type: interval
+  before: {"start":"20201005T174626Z"}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T174626Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201005T174626Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T174626Z","end":"20201005T182901Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T182907Z","tags":["Do CALCULO II list 11","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20201005T182907Z","tags":["Do CALCULO II list 11","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T182907Z","end":"20201005T184527Z","tags":["Do CALCULO II list 11","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T184535Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201005T184535Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T184535Z","end":"20201005T190817Z","tags":["Study 12.5 12.6 sections of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T194702Z","tags":["Do CALCULO II list 12","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20201005T194702Z","tags":["Do CALCULO II list 12","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T194702Z","end":"20201005T194856Z","tags":["Do CALCULO II list 12","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T195248Z","tags":["Watch IBD class from 5/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201005T195248Z","tags":["Watch IBD class from 5/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T195248Z","end":"20201005T200035Z","tags":["Watch IBD class from 5/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T201731Z","tags":["Watch IBD class from 5/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201005T201731Z","tags":["Watch IBD class from 5/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T201731Z","end":"20201005T203647Z","tags":["Watch IBD class from 5/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T214623Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T214623Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T214623Z","end":"20201005T214813Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T220300Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T220300Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T220300Z","end":"20201005T221945Z","tags":["CERO","Watch video 19 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T221951Z","tags":["CERO","Watch video 20 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T221951Z","tags":["CERO","Watch video 20 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T221951Z","end":"20201005T222816Z","tags":["CERO","Watch video 20 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T222823Z","tags":["CERO","Watch video 21 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T222823Z","tags":["CERO","Watch video 21 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T222823Z","end":"20201005T224815Z","tags":["CERO","Watch video 21 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201005T224824Z","tags":["CERO","Watch video 22 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201005T224824Z","tags":["CERO","Watch video 22 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201005T224824Z","end":"20201005T230024Z","tags":["CERO","Watch video 22 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T121208Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","end":"20201006T124507Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T121208Z","end":"20201006T124507Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","end":"20201006T131507Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T121208Z","end":"20201006T131507Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","end":"20201006T131507Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T121208Z","end":"20201006T131507Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","end":"20201006T131307Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T121208Z","end":"20201006T131307Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T121208Z","end":"20201006T135307Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T142839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201006T142839Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T142839Z","end":"20201006T150322Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T175245Z","tags":["Study 14.1 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201006T175245Z","tags":["Study 14.1 section of Calculo Vol 2","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T175245Z","end":"20201006T181351Z","tags":["Study 14.1 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T181359Z","tags":["Do CALCULO II list 13","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20201006T181359Z","tags":["Do CALCULO II list 13","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T181359Z","end":"20201006T183442Z","tags":["Do CALCULO II list 13","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T195518Z","tags":["CERO","Watch video 23 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201006T195518Z","tags":["CERO","Watch video 23 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T195518Z","end":"20201006T201453Z","tags":["CERO","Watch video 23 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T201459Z","tags":["CERO","Watch video 24 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201006T201459Z","tags":["CERO","Watch video 24 of CERO course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T201459Z","end":"20201006T201520Z","tags":["CERO","Watch video 24 of CERO course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T201543Z","tags":["CERO","Complete CERO course!","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201006T201543Z","tags":["CERO","Complete CERO course!","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T201543Z","end":"20201006T203006Z","tags":["CERO","Complete CERO course!","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201006T223551Z","tags":["Watch PROBABILIDADE class from 6/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201006T223551Z","tags":["Watch PROBABILIDADE class from 6/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201006T223551Z","end":"20201006T231906Z","tags":["Watch PROBABILIDADE class from 6/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T111954Z","tags":["Watch ED class from 6/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201007T111954Z","tags":["Watch ED class from 6/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T111954Z","end":"20201007T113724Z","tags":["Watch ED class from 6/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T114104Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201007T114104Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T114104Z","end":"20201007T120521Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T120547Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201007T120547Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T120547Z","end":"20201007T123334Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T124745Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201007T124745Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T124745Z","end":"20201007T131312Z","tags":["Read some pages of the Radare2 book","cybersec","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T131916Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201007T131916Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T131916Z","end":"20201007T133316Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T141620Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201007T141620Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T141620Z","end":"20201007T142822Z","tags":["Study 14.2 section of Calculo Vol 2","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T142918Z","tags":["Do CALCULO II list 14","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20201007T142918Z","tags":["Do CALCULO II list 14","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T142918Z","end":"20201007T143219Z","tags":["Do CALCULO II list 14","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T143228Z","tags":["Do CALCULO II test","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201007T143228Z","tags":["Do CALCULO II test","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T143228Z","end":"20201007T160634Z","tags":["Do CALCULO II test","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T173528Z","tags":["Rewatch talk about taskwarrior","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201007T173528Z","tags":["Rewatch talk about taskwarrior","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T173528Z","end":"20201007T173544Z","tags":["Rewatch talk about taskwarrior","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T174730Z","tags":["Watch IBD class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201007T174730Z","tags":["Watch IBD class from 7/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T174730Z","end":"20201007T185127Z","tags":["Watch IBD class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201007T210734Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201007T210734Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201007T210734Z","end":"20201007T225032Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201008T134108Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201008T134108Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201008T134108Z","end":"20201008T140851Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201008T141608Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201008T141608Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201008T141608Z","end":"20201008T143542Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201008T210109Z","tags":["Watch ED class from 8/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201008T210109Z","tags":["Watch ED class from 8/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201008T210109Z","end":"20201008T212149Z","tags":["Watch ED class from 8/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T162413Z","tags":["Watch ISL class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201009T162413Z","tags":["Watch ISL class from 7/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T162413Z","end":"20201009T163906Z","tags":["Watch ISL class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T164707Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201009T164707Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T164707Z","end":"20201009T171923Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T175744Z","tags":["radare2 crashcourse"]}
+txn:
+  type: interval
+  before: {"start":"20201009T175744Z","tags":["radare2 crashcourse"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T175744Z","end":"20201009T182910Z","tags":["radare2 crashcourse"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T192841Z","tags":["Watch PROBABILIDADE class from 8/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201009T192841Z","tags":["Watch PROBABILIDADE class from 8/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T192841Z","end":"20201009T202111Z","tags":["Watch PROBABILIDADE class from 8/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T205530Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201009T205530Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T205530Z","end":"20201009T212128Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201009T221513Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201009T221513Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201009T221513Z","end":"20201009T231737Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T121117Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201010T121117Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T121117Z","end":"20201010T124623Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T125531Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201010T125531Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T125531Z","end":"20201010T131906Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T150611Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201010T150611Z","tags":["Work on Vim wiki","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T150611Z","end":"20201010T153714Z","tags":["Work on Vim wiki","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T165604Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201010T165604Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T165604Z","end":"20201010T174626Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T175925Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201010T175925Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T175925Z","end":"20201010T190134Z","tags":["Watch vids on DankiCode GameDev course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T195016Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201010T195016Z","tags":["Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T195016Z","end":"20201010T211808Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201010T213713Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201010T213713Z","tags":["Do ED TP2","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201010T213713Z","end":"20201011T000231Z","tags":["Do ED TP2","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T130539Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201011T130539Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T130539Z","end":"20201011T131206Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T132433Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201011T132433Z","tags":["Do some lessons on gtypist","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T132433Z","end":"20201011T140139Z","tags":["Do some lessons on gtypist","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T141254Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: {"start":"20201011T141254Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T141254Z","end":"20201011T145737Z","tags":["Read some pages of 48 Laws of Power","personal"]}

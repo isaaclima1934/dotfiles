@@ -11,7 +11,9 @@
 # Use the command 'task show' to see all defaults and overrides
 
 # My tag and project priority overrides
-urgency.user.tag.college.coefficient=2.0 # all my college stuff has a higher priority
+urgency.user.tag.college.coefficient=4.0 # all my college stuff has a higher priority
+urgency.user.tag.cybersec.coefficient=2.0 # all my cybersec stuff also has a higher priority
+urgency.user.tag.hobbies.coefficient=1.0
 # Files
 data.location=~/.task
 
@@ -23,19 +25,11 @@ search.case.sensitive=no
 list.all.projects=yes
 
 # Color theme (uncomment one to use)
-#include /usr/local/share/doc/task/rc/light-16.theme
-#include /usr/local/share/doc/task/rc/light-256.theme
-#include /usr/local/share/doc/task/rc/dark-16.theme
-#include /usr/local/share/doc/task/rc/dark-256.theme
-#include /usr/local/share/doc/task/rc/dark-red-256.theme
 #include /usr/local/share/doc/task/rc/dark-green-256.theme
-#include /usr/local/share/doc/task/rc/dark-blue-256.theme
-#include /usr/local/share/doc/task/rc/dark-violets-256.theme
-#include /usr/local/share/doc/task/rc/dark-yellow-green.theme
+include /usr/local/share/doc/task/rc/dark-yellow-green.theme
 #include /usr/local/share/doc/task/rc/dark-gray-256.theme
 #include /usr/local/share/doc/task/rc/dark-gray-blue-256.theme
-include /usr/local/share/doc/task/rc/solarized-dark-256.theme
-#include /usr/local/share/doc/task/rc/solarized-light-256.theme
+#include /usr/local/share/doc/task/rc/solarized-dark-256.theme
 #include /usr/local/share/doc/task/rc/no-color.theme
 
 # Let's make our own scheduled report.
@@ -45,14 +39,6 @@ report.scheduled.columns=id,start.age,entry.age,priority,project,tags,recur.indi
 report.scheduled.labels=ID,Active,Age,P,Project,Tags,R,S,Due,Until,Description,Urg
 report.scheduled.sort=scheduled
 report.scheduled.filter=+SCHEDULED -COMPLETED -DELETED
-
-# I never really got into the review system in `tasksh`, but here's the config from when I tried.
-uda.reviewed.type=date
-uda.reviewed.label=Reviewed
-report._reviewed.description=Tasksh review report.  Adjust the filter to your needs.
-report._reviewed.columns=uuid
-report._reviewed.sort=reviewed+,modified+
-report._reviewed.filter=( reviewed.none: or reviewed.before:now-1week ) and ( +PENDING or +WAITING )
 
 # next report: don't show annotations
 report.next.columns=id,start.age,entry.age,depends,priority,project,tags,recur,scheduled.countdown,due.relative,until.remaining,description.count,urgency
@@ -79,6 +65,16 @@ urgency.blocking.coefficient=2
 urgency.blocked.coefficient=-3
 
 # More sensible priorities, plz.
-uda.priority.values = H,M,,L
-urgency.uda.priority.L.coefficient=0
-urgency.uda.priority..coefficient=1.8
+uda.priority.values = 1,2,3,4,5,,6,7,8,9,10
+
+urgency.uda.priority.1.coefficient=-5.0
+urgency.uda.priority.2.coefficient=-4.0
+urgency.uda.priority.3.coefficient=-3.0
+urgency.uda.priority.4.coefficient=-2.0
+urgency.uda.priority.5.coefficient=-1.0
+urgency.uda.priority..coefficient=0.0
+urgency.uda.priority.6.coefficient=1.0
+urgency.uda.priority.7.coefficient=2.0
+urgency.uda.priority.8.coefficient=3.0
+urgency.uda.priority.9.coefficient=4.0
+urgency.uda.priority.10.coefficient=5.0

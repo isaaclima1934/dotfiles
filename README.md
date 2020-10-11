@@ -2,7 +2,7 @@
 
 In this dotfiles repo I have:
 
-a) .vimr
+a) .vimrc
 
 b) .vim/after/syntax/vimwiki.vim
 

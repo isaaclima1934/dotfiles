@@ -48,12 +48,17 @@ set whichwrap=h,l
 " do not recognize numbers starting with a zero as octal
 set nrformats-=octal
 
-" map semicolon to colon for sake of laziness
-nnoremap ; :
-
 " make using the clipboard more easyyy
 noremap <Leader>y "+y
 noremap <Leader>p "+p
+noremap <Leader>P "+P
+
+" easy access to .vimrc file
+noremap <Leader>rc :sp $MYVIMRC<CR>
+
+" easy fzf use
+noremap <Leader>f :Files<CR>
+noremap <Leader>ag :Ag<CR>
 
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.
@@ -109,11 +114,11 @@ nnoremap <Right> :echoe "Use l"<CR>
 nnoremap <Up> :echoe "Use k"<CR>
 nnoremap <Down> :echoe "Use j"<CR>
 
+" easy TOC
+map \T :VimwikiTOC<CR>
+
 " insta make
 nnoremap <silent> <Leader>mk :make<Enter><Enter><Enter>
-
-" Run commands that require an interactive shell
-nnoremap <Leader>r :RunInInteractiveShell<Space>
 
 " Open new split panes to right and bottom, which feels more natural
 set splitbelow
@@ -135,7 +140,9 @@ set complete+=kspell
 " Always use vertical diffs
 set diffopt+=vertical
 
+" Aesthetic
 set background=dark
+colorscheme industry
 
 " => vim-plug plugins ----------------------------------------------------- {{{1
 
@@ -149,6 +156,8 @@ Plug 'danilamihailov/vim-tips-wiki'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 
 call plug#end()
 
@@ -177,6 +186,8 @@ endif
 " Disable line numbers in terminal.
 au CursorMoved * if &buftype == 'terminal' | set nonumber | endif
 
+" godot options
+let g:godot_executable='$HOME/GameDev/Godot_v3.2.1-stable_x11.64'
 " VIMWIKI OPTIONS
 let g:vimwiki_list = [{
   \ 'template_path': '$HOME/vimwiki',
