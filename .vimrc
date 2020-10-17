@@ -23,9 +23,6 @@ endif
 " => Sane defaults --------------------------------------------------------
 set encoding=utf-8
 
-" Leader
-let mapleader = " "
-
 filetype plugin on
 set nocompatible
 set backspace=2   " Backspace deletes like most programs in insert mode
@@ -47,18 +44,6 @@ set whichwrap=h,l
 
 " do not recognize numbers starting with a zero as octal
 set nrformats-=octal
-
-" make using the clipboard more easyyy
-noremap <Leader>y "+y
-noremap <Leader>p "+p
-noremap <Leader>P "+P
-
-" easy access to .vimrc file
-noremap <Leader>rc :sp $MYVIMRC<CR>
-
-" easy fzf use
-noremap <Leader>f :Files<CR>
-noremap <Leader>ag :Ag<CR>
 
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.
@@ -90,45 +75,15 @@ set nojoinspaces
 set number
 set numberwidth=5
 
-" Tab completion
-" will insert tab at beginning of line,
-" will use completion if not at beginning
-set wildmode=list:longest,list:full
-function! InsertTabWrapper()
-    let col = col('.') - 1
-    if !col || getline('.')[col - 1] !~ '\k'
-        return "\<Tab>"
-    else
-        return "\<C-p>"
-    endif
-endfunction
-inoremap <Tab> <C-r>=InsertTabWrapper()<CR>
-inoremap <S-Tab> <C-n>
-
-" Switch between the last two files
-nnoremap <Leader><Leader> <C-^>
-
 " Get off my lawn
 nnoremap <Left> :echoe "Use h"<CR>
 nnoremap <Right> :echoe "Use l"<CR>
 nnoremap <Up> :echoe "Use k"<CR>
 nnoremap <Down> :echoe "Use j"<CR>
 
-" easy TOC
-map \T :VimwikiTOC<CR>
-
-" insta make
-nnoremap <silent> <Leader>mk :make<Enter><Enter><Enter>
-
 " Open new split panes to right and bottom, which feels more natural
 set splitbelow
 set splitright
-
-" Quicker window movement
-nnoremap <C-j> <C-w>j
-nnoremap <C-k> <C-w>k
-nnoremap <C-h> <C-w>h
-nnoremap <C-l> <C-w>l
 
 " Set spellfile to location that is guaranteed to exist, can be symlinked to
 " Dropbox or kept in Git and managed outside of thoughtbot/dotfiles using rcm.
@@ -158,6 +113,7 @@ Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+Plug 'habamax/vim-godot'
 
 call plug#end()
 
@@ -186,11 +142,62 @@ endif
 " Disable line numbers in terminal.
 au CursorMoved * if &buftype == 'terminal' | set nonumber | endif
 
-" godot options
-let g:godot_executable='$HOME/GameDev/Godot_v3.2.1-stable_x11.64'
 " VIMWIKI OPTIONS
 let g:vimwiki_list = [{
   \ 'template_path': '$HOME/vimwiki',
   \ 'template_default': 'def_template',
   \ 'template_ext': '.html'}]
 " let g:vimwiki_folding = 'expr'      " Enable folding.
+
+" godot-vim options
+let g:godot_executable='$HOME/Gamedev/godot'
+
+func! GodotSettings() abort
+    setlocal foldmethod=expr
+    setlocal tabstop=4
+    nnoremap <buffer> <F4> :GodotRunLast<CR>
+    nnoremap <buffer> <F5> :GodotRun<CR>
+    nnoremap <buffer> <F6> :GodotRunCurrent<CR>
+    nnoremap <buffer> <F7> :GodotRunFZF<CR>
+    nnoremap <buffer> <Leader>gl :GodotRunLast<CR>
+    nnoremap <buffer> <Leader>gm :GodotRun<CR>
+    nnoremap <buffer> <Leader>g :GodotRunCurrent<CR>
+    nnoremap <buffer> <Leader>gf :GodotRunFZF<CR>
+endfunc
+augroup godot | au!
+    au FileType gdscript call GodotSettings()
+augroup end
+
+" key bindings
+" Leader
+let mapleader = " "
+
+" make using the clipboard more easyyy
+noremap <Leader>y "+y
+noremap <Leader>p "+p
+noremap <Leader>P "+P
+
+" easy access to .vimrc file
+noremap <Leader>rc :sp $MYVIMRC<CR>
+
+" easy fzf use
+noremap <Leader>f :Files<CR>
+noremap <Leader>ag :Ag<CR>
+
+" Save more quickly
+nnoremap <Leader>s :w<CR>
+
+" easy TOC
+map \T :VimwikiTOC<CR>
+
+" insta make
+nnoremap <silent> <Leader>mk :make<Enter><Enter><Enter>
+
+" Quicker window movement
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-h> <C-w>h
+nnoremap <C-l> <C-w>l
+
+" the YouCompleteMe bundle ============================================>
+

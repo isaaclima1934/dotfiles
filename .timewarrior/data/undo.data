@@ -1904,3 +1904,435 @@ txn:
   type: interval
   before: 
   after: {"start":"20201011T141254Z","end":"20201011T145737Z","tags":["Read some pages of 48 Laws of Power","personal"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T155215Z","tags":["Watch first episode of The Day I Became God anime","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201011T155215Z","tags":["Watch first episode of The Day I Became God anime","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T155215Z","end":"20201011T160251Z","tags":["Watch first episode of The Day I Became God anime","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T184838Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201011T184838Z","tags":["Work on Vim wiki","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T184838Z","end":"20201011T184947Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T192518Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201011T192518Z","tags":["Work on Vim wiki","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T192518Z","end":"20201011T195556Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T200607Z","tags":["Read some pages of 48 Laws of Power"]}
+txn:
+  type: interval
+  before: {"start":"20201011T200607Z","tags":["Read some pages of 48 Laws of Power"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T200607Z","end":"20201011T204655Z","tags":["Read some pages of 48 Laws of Power"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T204658Z"}
+txn:
+  type: interval
+  before: {"start":"20201011T204658Z"}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T204658Z","end":"20201011T204701Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T224408Z","tags":["Read some pages of 48 Laws of Power"]}
+txn:
+  type: interval
+  before: {"start":"20201011T224408Z","tags":["Read some pages of 48 Laws of Power"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201011T224408Z","end":"20201011T231300Z","tags":["Read some pages of 48 Laws of Power"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201011T233000Z","end":"20201012T004200Z","tags":["read Ultimate Guide to Chess"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T020512Z","tags":["Do IBD TP2 part 1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201012T020512Z","tags":["Do IBD TP2 part 1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T020512Z","end":"20201012T020521Z","tags":["Do IBD TP2 part 1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201012T020512Z","end":"20201012T020521Z","tags":["Do IBD TP2 part 1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T020512Z","end":"20201012T030521Z","tags":["Do IBD TP2 part 1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201012T020512Z","end":"20201012T030521Z","tags":["Do IBD TP2 part 1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T020512Z","end":"20201012T031021Z","tags":["Do IBD TP2 part 1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20201012T020512Z","end":"20201012T031021Z","tags":["Do IBD TP2 part 1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T020512Z","end":"20201012T031103Z","tags":["Do IBD TP2 part 1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T112140Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201012T112140Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T112140Z","end":"20201012T140414Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T141022Z","tags":["Read section 11 of ISL book","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20201012T141022Z","tags":["Read section 11 of ISL book","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T141022Z","end":"20201012T152020Z","tags":["Read section 11 of ISL book","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T152354Z","tags":["Listen to Spotify recomended musics"]}
+txn:
+  type: interval
+  before: {"start":"20201012T152354Z","tags":["Listen to Spotify recomended musics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T152354Z","end":"20201012T155233Z","tags":["Listen to Spotify recomended musics"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T161256Z","tags":["Watch ISL class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201012T161256Z","tags":["Watch ISL class from 7/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T161256Z","end":"20201012T163451Z","tags":["Watch ISL class from 7/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T164029Z","tags":["Watch CALCULO II class from 12/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201012T164029Z","tags":["Watch CALCULO II class from 12/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T164029Z","end":"20201012T164656Z","tags":["Watch CALCULO II class from 12/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T173502Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201012T173502Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T173502Z","end":"20201012T174157Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T175503Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201012T175503Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T175503Z","end":"20201012T191736Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201012T235451Z","tags":["Read some pages of Ultimate Guide to Chess"]}
+txn:
+  type: interval
+  before: {"start":"20201012T235451Z","tags":["Read some pages of Ultimate Guide to Chess"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201012T235451Z","end":"20201013T004526Z","tags":["Read some pages of Ultimate Guide to Chess"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201013T114535Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201013T114535Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201013T114535Z","end":"20201013T135911Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201013T185709Z","tags":["Watch ED class from 13/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201013T185709Z","tags":["Watch ED class from 13/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201013T185709Z","end":"20201013T194426Z","tags":["Watch ED class from 13/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201013T231119Z","tags":["Watch PROBABILIDADE class from 13/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201013T231119Z","tags":["Watch PROBABILIDADE class from 13/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201013T231119Z","end":"20201014T000823Z","tags":["Watch PROBABILIDADE class from 13/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T115241Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201014T115241Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T115241Z","end":"20201014T140920Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T142820Z","tags":["Watch CALCULO II class from 14/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201014T142820Z","tags":["Watch CALCULO II class from 14/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T142820Z","end":"20201014T144923Z","tags":["Watch CALCULO II class from 14/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T151523Z","tags":["Read some pages of the Radare2 book","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201014T151523Z","tags":["Read some pages of the Radare2 book","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T151523Z","end":"20201014T154406Z","tags":["Read some pages of the Radare2 book","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T160512Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20201014T160512Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T160512Z","end":"20201014T185407Z","tags":["Spend time on TryHackMe or Pwnable.kr","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T193741Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201014T193741Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T193741Z","end":"20201014T205646Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201014T223659Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201014T223659Z","tags":["Work on Vim wiki","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201014T223659Z","end":"20201014T233236Z","tags":["Work on Vim wiki","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T011145Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T011145Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T011145Z","end":"20201015T021128Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T110738Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T110738Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T110738Z","end":"20201015T124330Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T141753Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T141753Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T141753Z","end":"20201015T152608Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T154056Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T154056Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T154056Z","end":"20201015T164526Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T220511Z","tags":["Work on the Rust wiki","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T220511Z","tags":["Work on the Rust wiki","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T220511Z","end":"20201015T224025Z","tags":["Work on the Rust wiki","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201015T225428Z","tags":["Work on the Rust wiki","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201015T225428Z","tags":["Work on the Rust wiki","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201015T225428Z","end":"20201015T235355Z","tags":["Work on the Rust wiki","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201016T120125Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201016T120125Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201016T120125Z","end":"20201016T130741Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201016T170117Z","tags":["Read section 12 of ISL book","college"]}
+txn:
+  type: interval
+  before: {"start":"20201016T170117Z","tags":["Read section 12 of ISL book","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201016T170117Z","end":"20201016T180039Z","tags":["Read section 12 of ISL book","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201016T180050Z","tags":["Watch ISL class from 14/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201016T180050Z","tags":["Watch ISL class from 14/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201016T180050Z","end":"20201016T182910Z","tags":["Watch ISL class from 14/10","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201016T201327Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201016T201327Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201016T201327Z","end":"20201016T210839Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201017T112738Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201017T112738Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201017T112738Z","end":"20201017T115700Z","tags":["Read 48 Laws of Power OR Chess Book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201017T162126Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20201017T162126Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201017T162126Z","end":"20201017T171915Z","tags":["Watch vids on DankiCode GameDev course","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20201017T190340Z","tags":["Watch PROBABILIDADE class from 15/10","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20201017T190340Z","tags":["Watch PROBABILIDADE class from 15/10","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20201017T190340Z","end":"20201017T195050Z","tags":["Watch PROBABILIDADE class from 15/10","class","college"]}

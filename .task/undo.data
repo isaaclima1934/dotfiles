@@ -3924,3 +3924,1017 @@ time 1602428913
 old [annotation_1599961484:"Until i reach 100WPM" annotation_1599961520:"Site: 10fastfingers.com" description:"Practice my WPM at the 10ff site" due:"1600047500" end:"1599961943" entry:"1599961118" imask:"0.000000" modified:"1599961943" parent:"4631ecbb-86dc-4a4c-8734-6bc4419f415c" priority:"L" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1600133900" uuid:"7a91a912-89ae-4de3-86c4-0570f1e314d8"]
 new [annotation_1599961484:"Until i reach 100WPM" annotation_1599961520:"Site: 10fastfingers.com" description:"Practice my WPM at the 10ff site" due:"1600047500" end:"1599961943" entry:"1599961118" imask:"0.000000" modified:"1602428913" parent:"4631ecbb-86dc-4a4c-8734-6bc4419f415c" recur:"daily" rtype:"periodic" status:"completed" tags:"personal" until:"1600133900" uuid:"7a91a912-89ae-4de3-86c4-0570f1e314d8"]
 ---
+time 1602429779
+old [description:"Read some pages of the Radare2 book" due:"1602493200" entry:"1602418765" imask:"5" modified:"1602330158" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" recur:"daily" rtype:"periodic" status:"pending" tags:"personal,cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+new [description:"Read some pages of the Radare2 book" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602429779" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+---
+time 1602429797
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5" modified:"1602344234" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602429797" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602429820
+old [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1601044127" status:"pending" tags:"personal" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+new [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602429820" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+---
+time 1602429883
+old [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602428903" status:"pending" tags:"college,tp" until:"1602464400" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+new [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602429883" priority:"8" status:"pending" tags:"college,tp" until:"1602464400" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+---
+time 1602429890
+old [description:"Do IBD TP2 part 2" due:"1603764000" entry:"1601918046" modified:"1602428903" status:"pending" tags:"college,tp" until:"1603771200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f"]
+new [description:"Do IBD TP2 part 2" due:"1603764000" entry:"1601918046" modified:"1602429890" priority:"8" status:"pending" tags:"college,tp" until:"1603771200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f"]
+---
+time 1602429892
+old [description:"read ISL book section 11" due:"1602471600" entry:"1602261536" modified:"1602291259" status:"pending" tags:"college" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+new [description:"read ISL book section 11" due:"1602471600" entry:"1602261536" modified:"1602429892" priority:"8" status:"pending" tags:"college" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+---
+time 1602430036
+old [description:"Read some pages of the Radare2 book" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602429779" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+new [description:"Read some pages of the Radare2 book" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430036" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+---
+time 1602430038
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++-" modified:"1602418780" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++-" modified:"1602430038" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602430047
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602493200" entry:"1602418765" imask:"5" modified:"1602351986" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"96860814-eafb-44bf-8afa-ea92bb95d501"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430047" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"96860814-eafb-44bf-8afa-ea92bb95d501"]
+---
+time 1602430048
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++-" modified:"1602418765" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++-" modified:"1602430048" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602430051
+old [description:"Watch vids on DankiCode GameDev course" due:"1602493200" entry:"1602418765" imask:"5" modified:"1602356494" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"969c1a18-2fef-456d-84c2-c21036ba170d"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430051" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"969c1a18-2fef-456d-84c2-c21036ba170d"]
+---
+time 1602430052
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++-" modified:"1602418765" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++-" modified:"1602430052" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602430117
+old [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602429820" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+new [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602430117" priority:"2" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+---
+time 1602430129
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602429797" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602430129" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602430130
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++-" modified:"1602418765" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++-" modified:"1602430130" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602431523
+new [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431523" modified:"1602431523" priority:"2" recur:"weekly" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1610293923" uuid:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0"]
+---
+time 1602431526
+new [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431526" imask:"0" modified:"1602431523" parent:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0" priority:"2" recur:"weekly" rtype:"periodic" status:"pending" tags:"hobbies" until:"1610293923" uuid:"cbe3c5d7-b0e2-43f2-9f52-9c688dbc1208"]
+---
+time 1602431527
+old [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431523" modified:"1602431523" priority:"2" recur:"weekly" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1610293923" uuid:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0"]
+new [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431523" mask:"-" modified:"1602431527" priority:"2" recur:"weekly" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1610293923" uuid:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0"]
+---
+time 1602431532
+old [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431523" mask:"-" modified:"1602431527" priority:"2" recur:"weekly" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1610293923" uuid:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0"]
+new [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431523" mask:"+" modified:"1602431532" priority:"2" recur:"weekly" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1610293923" uuid:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0"]
+---
+time 1602431532
+old [description:"Watch episode of The Day I Became God anime" due:"1602990000" entry:"1602431526" imask:"0" modified:"1602431523" parent:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0" priority:"2" recur:"weekly" rtype:"periodic" status:"pending" tags:"hobbies" until:"1610293923" uuid:"cbe3c5d7-b0e2-43f2-9f52-9c688dbc1208"]
+new [description:"Watch episode of The Day I Became God anime" due:"1602990000" end:"1602431532" entry:"1602431526" imask:"0.000000" modified:"1602431532" parent:"a765cf7b-256f-4c50-a3d2-d84774a1c0f0" priority:"2" recur:"weekly" rtype:"periodic" status:"completed" tags:"hobbies" until:"1610293923" uuid:"cbe3c5d7-b0e2-43f2-9f52-9c688dbc1208"]
+---
+time 1602431535
+old [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602430117" priority:"2" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+new [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602431535" priority:"2" start:"1602431535" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+---
+time 1602432171
+old [description:"Watch first episode of The Day I Became God anime" due:"1602644400" entry:"1601044127" modified:"1602431535" priority:"2" start:"1602431535" status:"pending" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+new [description:"Watch first episode of The Day I Became God anime" due:"1602644400" end:"1602432171" entry:"1601044127" modified:"1602432171" priority:"2" status:"completed" tags:"hobbies" until:"1602644400" uuid:"88856724-4b91-419b-85a6-0f8840dee7aa"]
+---
+time 1602441852
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++-" modified:"1602430052" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++" modified:"1602441852" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602441852
+old [description:"Watch vids on DankiCode GameDev course" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430051" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"969c1a18-2fef-456d-84c2-c21036ba170d"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602493200" end:"1602441852" entry:"1602418765" imask:"5.000000" modified:"1602441852" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"969c1a18-2fef-456d-84c2-c21036ba170d"]
+---
+time 1602442090
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++-" modified:"1602430038" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++" modified:"1602442090" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602442090
+old [description:"Read some pages of the Radare2 book" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430036" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+new [description:"Read some pages of the Radare2 book" due:"1602493200" end:"1602442090" entry:"1602418765" imask:"5.000000" modified:"1602442090" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"b0e1483d-18b5-4f96-80ff-2e534ab5b035"]
+---
+time 1602442118
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602430129" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602442118" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602442118" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602442187
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602442118" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602442118" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602442187" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602444318
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602442187" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602444318" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602444317" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602446156
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++-" modified:"1602430130" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++" modified:"1602446156" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602446156
+old [description:"Work on Vim wiki" due:"1602493200" entry:"1602418764" imask:"5.000000" modified:"1602444318" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602444317" status:"pending" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+new [description:"Work on Vim wiki" due:"1602493200" end:"1602446156" entry:"1602418764" imask:"5.000000" modified:"1602446156" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578253" uuid:"7946ace7-9e3a-4709-b83c-666871396abf"]
+---
+time 1602446169
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++-" modified:"1602430048" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++" modified:"1602446169" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602446169
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602493200" entry:"1602418765" imask:"5.000000" modified:"1602430047" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"96860814-eafb-44bf-8afa-ea92bb95d501"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602493200" end:"1602446169" entry:"1602418765" imask:"5.000000" modified:"1602446169" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"96860814-eafb-44bf-8afa-ea92bb95d501"]
+---
+time 1602446267
+old [description:"read ISL book section 11" due:"1602471600" entry:"1602261536" modified:"1602429892" priority:"8" status:"pending" tags:"college" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+new [description:"read ISL book section 11" due:"1602471600" entry:"1602261536" modified:"1602446267" priority:"8" status:"pending" tags:"college,test" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+---
+time 1602458013
+old [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602429883" priority:"8" status:"pending" tags:"college,tp" until:"1602464400" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+new [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602458013" priority:"8" status:"pending" tags:"college,tp" until:"1602479613" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+---
+time 1602468312
+old [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602458013" priority:"8" status:"pending" tags:"college,tp" until:"1602479613" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+new [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602468312" priority:"8" start:"1602468311" status:"pending" tags:"college,tp" until:"1602479613" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+---
+time 1602468321
+old [description:"Do IBD TP2 part 1" due:"1602446400" entry:"1601302507" modified:"1602468312" priority:"8" start:"1602468311" status:"pending" tags:"college,tp" until:"1602479613" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+new [description:"Do IBD TP2 part 1" due:"1602446400" end:"1602468321" entry:"1601302507" modified:"1602468321" priority:"8" status:"completed" tags:"college,tp" until:"1602479613" uuid:"fd78eb22-6577-481a-bae7-d5da387d4996"]
+---
+time 1602501166
+old [description:"read ISL book section 11" due:"1602471600" entry:"1602261536" modified:"1602446267" priority:"8" status:"pending" tags:"college,test" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+new [description:"read ISL book section 11" due:"1602471600" end:"1602501166" entry:"1602261536" modified:"1602501166" priority:"8" status:"deleted" tags:"college,test" until:"1602493200" uuid:"d1b67316-cc3f-4109-abad-8503b08d5469"]
+---
+time 1602501166
+new [description:"Read some pages of 48 Laws of Power" due:"1602579600" entry:"1602501166" imask:"16" modified:"1602428256" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602501166
+old [description:"Read some pages of 48 Laws of Power" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++" modified:"1602428256" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read some pages of 48 Laws of Power" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501166" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602501166
+new [description:"Work on Vim wiki" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602446156" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578253" uuid:"dc46f6c2-70eb-4d9e-8bb9-23cae0dc5e6f"]
+---
+time 1602501166
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++" modified:"1602446156" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++-" modified:"1602501166" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602501166
+new [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602424899" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+---
+time 1602501166
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++" modified:"1602424899" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501166" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602501166
+new [description:"Read some pages of the Radare2 book" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602442090" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"personal,cybersec" until:"1607203783" uuid:"3a96aad2-088e-4b4e-abef-10dd6c63e614"]
+---
+time 1602501166
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++" modified:"1602442090" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602501166
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602446169" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"b1fc5be3-d184-4155-94d3-24787a3130bc"]
+---
+time 1602501166
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++" modified:"1602446169" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602501166
+new [description:"Watch vids on DankiCode GameDev course" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602441852" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"c007eaa5-bd08-48c6-9103-75160c964fc7"]
+---
+time 1602501166
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++" modified:"1602441852" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602501183
+old [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602424899" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+new [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501183" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+---
+time 1602501186
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501166" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501186" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602501198
+old [description:"Read some pages of 48 Laws of Power" due:"1602579600" entry:"1602501166" imask:"16" modified:"1602428256" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read some pages of 48 Laws of Power" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501198" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602501200
+old [description:"Read some pages of 48 Laws of Power" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501166" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read some pages of 48 Laws of Power" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501200" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602501219
+old [description:"Watch ISL class from 7\/10" due:"1602536400" entry:"1602069343" modified:"1602291223" status:"pending" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+new [description:"Watch ISL class from 7\/10" due:"1602536400" entry:"1602069343" modified:"1602501219" priority:"7" status:"pending" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+---
+time 1602501254
+old [description:"Read some pages of 48 Laws of Power" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501198" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501254" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602501257
+old [description:"Read some pages of 48 Laws of Power" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501200" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501257" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602501281
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501254" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501281" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602501282
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501257" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501282" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602501291
+old [description:"Work on Vim wiki" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602446156" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578253" uuid:"dc46f6c2-70eb-4d9e-8bb9-23cae0dc5e6f"]
+new [description:"Work on Vim wiki" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501291" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"dc46f6c2-70eb-4d9e-8bb9-23cae0dc5e6f"]
+---
+time 1602501292
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++-" modified:"1602501166" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++-" modified:"1602501292" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602501294
+old [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501183" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"personal" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+new [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501294" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+---
+time 1602501296
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501186" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501296" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602501316
+old [description:"Read some pages of the Radare2 book" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602442090" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"personal,cybersec" until:"1607203783" uuid:"3a96aad2-088e-4b4e-abef-10dd6c63e614"]
+new [description:"Read some pages of the Radare2 book" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501316" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"3a96aad2-088e-4b4e-abef-10dd6c63e614"]
+---
+time 1602501319
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"personal,cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++-" modified:"1602501319" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602501340
+new [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+---
+time 1602501340
+new [description:"Watch IBD class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"d2c22a66-46be-45d1-8ec9-60298a99f36d"]
+---
+time 1602501340
+new [description:"Watch ISL class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"fc4fc655-e9de-4a8c-b775-31405876dad0"]
+---
+time 1602501700
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501281" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501700" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602501700" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602511454
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602501700" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602501700" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602511454" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602511674
+old [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+new [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+---
+time 1602511674
+old [description:"Watch IBD class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"d2c22a66-46be-45d1-8ec9-60298a99f36d"]
+new [description:"Watch IBD class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"d2c22a66-46be-45d1-8ec9-60298a99f36d"]
+---
+time 1602511674
+old [description:"Watch ISL class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602501340" status:"pending" tags:"college,class" until:"1602893740" uuid:"fc4fc655-e9de-4a8c-b775-31405876dad0"]
+new [description:"Watch ISL class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"fc4fc655-e9de-4a8c-b775-31405876dad0"]
+---
+time 1602511721
+new [description:"Read section 11 of ISL book prioriy:9" due:"1602526121" entry:"1602511721" modified:"1602511721" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+---
+time 1602511741
+old [description:"Read section 11 of ISL book prioriy:9" due:"1602526121" entry:"1602511721" modified:"1602511721" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+new [description:"Read section 11 of ISL book prioriy:9" due:"1602526121" entry:"1602511721" modified:"1602511741" priority:"9" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+---
+time 1602511755
+old [description:"Read section 11 of ISL book prioriy:9" due:"1602526121" entry:"1602511721" modified:"1602511741" priority:"9" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+new [description:"Read section 11 of ISL book" due:"1602526121" entry:"1602511721" modified:"1602511755" priority:"9" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+---
+time 1602511822
+old [description:"Read section 11 of ISL book" due:"1602526121" entry:"1602511721" modified:"1602511755" priority:"9" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+new [description:"Read section 11 of ISL book" due:"1602526121" entry:"1602511721" modified:"1602511822" priority:"9" start:"1602511822" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+---
+time 1602516020
+old [description:"Read section 11 of ISL book" due:"1602526121" entry:"1602511721" modified:"1602511822" priority:"9" start:"1602511822" status:"pending" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+new [description:"Read section 11 of ISL book" due:"1602526121" end:"1602516020" entry:"1602511721" modified:"1602516020" priority:"9" status:"completed" tags:"college,test" until:"1602533321" uuid:"95b4c408-f09f-4af9-b178-baf553ba09eb"]
+---
+time 1602516071
+old [description:"Do IBD TP2 part 2" due:"1603764000" entry:"1601918046" modified:"1602429890" priority:"8" status:"pending" tags:"college,tp" until:"1603771200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f"]
+new [description:"Do IBD TP2 part 2" due:"1603764000" entry:"1601918046" modified:"1602516071" priority:"8" status:"waiting" tags:"college,tp" until:"1603771200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f" wait:"1602903600"]
+---
+time 1602519176
+old [description:"Watch ISL class from 7\/10" due:"1602536400" entry:"1602069343" modified:"1602501219" priority:"7" status:"pending" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+new [description:"Watch ISL class from 7\/10" due:"1602536400" entry:"1602069343" modified:"1602519176" priority:"7" start:"1602519175" status:"pending" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+---
+time 1602520491
+old [description:"Watch ISL class from 7\/10" due:"1602536400" entry:"1602069343" modified:"1602519176" priority:"7" start:"1602519175" status:"pending" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+new [description:"Watch ISL class from 7\/10" due:"1602536400" end:"1602520490" entry:"1602069343" modified:"1602520491" priority:"7" status:"completed" tags:"college,class" until:"1602558000" uuid:"1c00876e-e7a5-4446-8338-235fcd68f825"]
+---
+time 1602520564
+new [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602520564" priority:"6" status:"pending" tags:"college,test" until:"1602779764" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602520611
+old [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602520564" priority:"6" status:"pending" tags:"college,test" until:"1602779764" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602520611" priority:"6" status:"pending" tags:"college" until:"1602779764" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602520814
+old [description:"Watch IBD class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"d2c22a66-46be-45d1-8ec9-60298a99f36d"]
+new [description:"Watch IBD class from 12\/10" due:"1602720940" end:"1602520814" entry:"1602501340" modified:"1602520814" priority:"7" status:"completed" tags:"college,class" until:"1602893740" uuid:"d2c22a66-46be-45d1-8ec9-60298a99f36d"]
+---
+time 1602520823
+old [description:"Watch ISL class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"fc4fc655-e9de-4a8c-b775-31405876dad0"]
+new [description:"Watch ISL class from 12\/10" due:"1602720940" end:"1602520823" entry:"1602501340" modified:"1602520823" priority:"7" status:"completed" tags:"college,class" until:"1602893740" uuid:"fc4fc655-e9de-4a8c-b775-31405876dad0"]
+---
+time 1602520829
+old [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602511674" priority:"7" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+new [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602520829" priority:"7" start:"1602520829" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+---
+time 1602521216
+old [description:"Watch CALCULO II class from 12\/10" due:"1602720940" entry:"1602501340" modified:"1602520829" priority:"7" start:"1602520829" status:"pending" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+new [description:"Watch CALCULO II class from 12\/10" due:"1602720940" end:"1602521216" entry:"1602501340" modified:"1602521216" priority:"7" status:"completed" tags:"college,class" until:"1602893740" uuid:"0adf20c4-e376-42db-b163-257630da23a4"]
+---
+time 1602524102
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602511454" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602524102" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602524102" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602524517
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602524102" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602524102" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602524517" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602525303
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602524517" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602525303" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602525302" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602530256
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++-" modified:"1602501282" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++" modified:"1602530256" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602530256
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" entry:"1602501166" imask:"16.000000" modified:"1602525303" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602525302" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602579600" end:"1602530256" entry:"1602501166" imask:"16.000000" modified:"1602530256" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"c0ef3b6f-abbe-44f7-bee1-753001699638"]
+---
+time 1602532020
+old [description:"Watch vids on DankiCode GameDev course" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602441852" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"c007eaa5-bd08-48c6-9103-75160c964fc7"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602532020" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"c007eaa5-bd08-48c6-9103-75160c964fc7"]
+---
+time 1602532023
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++-" modified:"1602532023" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602536206
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++-" modified:"1602501292" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++" modified:"1602536206" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602536206
+old [description:"Work on Vim wiki" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501291" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"dc46f6c2-70eb-4d9e-8bb9-23cae0dc5e6f"]
+new [description:"Work on Vim wiki" due:"1602579600" end:"1602536206" entry:"1602501166" imask:"6.000000" modified:"1602536206" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578253" uuid:"dc46f6c2-70eb-4d9e-8bb9-23cae0dc5e6f"]
+---
+time 1602544584
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++-" modified:"1602532023" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++" modified:"1602544584" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602544584
+old [description:"Watch vids on DankiCode GameDev course" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602532020" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"c007eaa5-bd08-48c6-9103-75160c964fc7"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602579600" end:"1602544583" entry:"1602501166" imask:"6.000000" modified:"1602544584" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"c007eaa5-bd08-48c6-9103-75160c964fc7"]
+---
+time 1602544589
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++-" modified:"1602501166" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++" modified:"1602544589" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602544589
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602579600" entry:"1602501166" imask:"6" modified:"1602446169" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"b1fc5be3-d184-4155-94d3-24787a3130bc"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602579600" end:"1602544589" entry:"1602501166" imask:"6.000000" modified:"1602544589" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"b1fc5be3-d184-4155-94d3-24787a3130bc"]
+---
+time 1602549966
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++-" modified:"1602501296" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"+++++++" modified:"1602549966" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602549966
+old [description:"Do some lessons on gtypist" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501294" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+new [description:"Do some lessons on gtypist" due:"1602579600" end:"1602549965" entry:"1602501166" imask:"6.000000" modified:"1602549966" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578290" uuid:"0c795e5f-958b-4ecf-818e-e86ab1b50b16"]
+---
+time 1602549967
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++-" modified:"1602501319" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++" modified:"1602549967" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602549967
+old [description:"Read some pages of the Radare2 book" due:"1602579600" entry:"1602501166" imask:"6.000000" modified:"1602501316" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"3a96aad2-088e-4b4e-abef-10dd6c63e614"]
+new [description:"Read some pages of the Radare2 book" due:"1602579600" end:"1602549967" entry:"1602501166" imask:"6.000000" modified:"1602549967" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"3a96aad2-088e-4b4e-abef-10dd6c63e614"]
+---
+time 1602555757
+new [description:"Watch The Normies react to EP 18 of Vinland Saga" entry:"1602555757" modified:"1602555757" status:"waiting" uuid:"cbb7ced8-35f1-4c70-bc9d-fe6e87f1ec6c" wait:"1603681200"]
+---
+time 1602555782
+old [description:"Watch The Normies react to EP 18 of Vinland Saga" entry:"1602555757" modified:"1602555757" status:"waiting" uuid:"cbb7ced8-35f1-4c70-bc9d-fe6e87f1ec6c" wait:"1603681200"]
+new [description:"Watch The Normies react to EP 18 of Vinland Saga" end:"1602555780" entry:"1602555757" modified:"1602555782" status:"deleted" uuid:"cbb7ced8-35f1-4c70-bc9d-fe6e87f1ec6c" wait:"1603681200"]
+---
+time 1602555835
+new [description:"Watch The Normies react to EP 18 of Vinland Saga" entry:"1602555835" modified:"1602555835" priority:"2" status:"waiting" tags:"hobbies" until:"1603832400" uuid:"6d5f72aa-815d-435e-afc9-464b7b934350" wait:"1603746000"]
+---
+time 1602589503
+new [description:"Watch ED class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602589503" priority:"7" status:"pending" tags:"college,class" until:"1602981903" uuid:"08147b76-c611-4281-a920-85356bb7b299"]
+---
+time 1602589503
+new [description:"Watch PROBABILIDADE class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602589503" priority:"7" status:"pending" tags:"college,class" until:"1602981903" uuid:"50fff0be-699e-474f-beaf-607c95d4f9ab"]
+---
+time 1602589503
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602666000" entry:"1602589503" imask:"17" modified:"1602530256" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"113baf63-af46-44b5-9e89-83badea4d30e"]
+---
+time 1602589504
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++" modified:"1602530256" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602589504
+new [description:"Work on Vim wiki" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602536206" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"d31418b8-cf84-458d-91a3-9e6717092236"]
+---
+time 1602589504
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++" modified:"1602536206" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602589504
+new [description:"Do some lessons on gtypist" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602549966" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"fefadbdf-dc44-4a9c-a004-26672a5d5f23"]
+---
+time 1602589504
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"+++++++" modified:"1602549966" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"+++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602589504
+new [description:"Read some pages of the Radare2 book" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602549967" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"97eafc71-f27d-48f7-a08d-46d72e22a89f"]
+---
+time 1602589504
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++" modified:"1602549967" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602589504
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602544589" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"f95f3f45-bb0b-416d-bcb8-3f10de8d4945"]
+---
+time 1602589504
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++" modified:"1602544589" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602589504
+new [description:"Watch vids on DankiCode GameDev course" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602544584" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"d09e115b-90b2-41b6-89ab-70357451e9a3"]
+---
+time 1602589504
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++" modified:"1602544584" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602589535
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602666000" entry:"1602589503" imask:"17" modified:"1602530256" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"113baf63-af46-44b5-9e89-83badea4d30e"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602666000" entry:"1602589503" imask:"17.000000" modified:"1602589535" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602589535" status:"pending" tags:"hobbies" until:"1608942408" uuid:"113baf63-af46-44b5-9e89-83badea4d30e"]
+---
+time 1602597551
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++" modified:"1602597551" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602597551
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602666000" entry:"1602589503" imask:"17.000000" modified:"1602589535" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602589535" status:"pending" tags:"hobbies" until:"1608942408" uuid:"113baf63-af46-44b5-9e89-83badea4d30e"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602666000" end:"1602597551" entry:"1602589503" imask:"17.000000" modified:"1602597551" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"113baf63-af46-44b5-9e89-83badea4d30e"]
+---
+time 1602614553
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++" modified:"1602614553" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602614553
+old [description:"Read some pages of the Radare2 book" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602549967" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"97eafc71-f27d-48f7-a08d-46d72e22a89f"]
+new [description:"Read some pages of the Radare2 book" due:"1602666000" end:"1602614553" entry:"1602589504" imask:"7.000000" modified:"1602614553" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"97eafc71-f27d-48f7-a08d-46d72e22a89f"]
+---
+time 1602614557
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"+++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++" modified:"1602614557" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602614557
+old [description:"Do some lessons on gtypist" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602549966" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"fefadbdf-dc44-4a9c-a004-26672a5d5f23"]
+new [description:"Do some lessons on gtypist" due:"1602666000" end:"1602614557" entry:"1602589504" imask:"7.000000" modified:"1602614557" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578290" uuid:"fefadbdf-dc44-4a9c-a004-26672a5d5f23"]
+---
+time 1602614559
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++-" modified:"1602589504" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++++" modified:"1602614559" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602614559
+old [description:"Work on Vim wiki" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602536206" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"d31418b8-cf84-458d-91a3-9e6717092236"]
+new [description:"Work on Vim wiki" due:"1602666000" end:"1602614559" entry:"1602589504" imask:"7.000000" modified:"1602614559" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578253" uuid:"d31418b8-cf84-458d-91a3-9e6717092236"]
+---
+time 1602614565
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++" modified:"1602614565" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602614565
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602544589" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"f95f3f45-bb0b-416d-bcb8-3f10de8d4945"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602666000" end:"1602614565" entry:"1602589504" imask:"7.000000" modified:"1602614565" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"f95f3f45-bb0b-416d-bcb8-3f10de8d4945"]
+---
+time 1602614568
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++-" modified:"1602589504" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++" modified:"1602614568" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602614568
+old [description:"Watch vids on DankiCode GameDev course" due:"1602666000" entry:"1602589504" imask:"7" modified:"1602544584" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"d09e115b-90b2-41b6-89ab-70357451e9a3"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602666000" end:"1602614568" entry:"1602589504" imask:"7.000000" modified:"1602614568" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"d09e115b-90b2-41b6-89ab-70357451e9a3"]
+---
+time 1602615429
+old [description:"Watch ED class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602589503" priority:"7" status:"pending" tags:"college,class" until:"1602981903" uuid:"08147b76-c611-4281-a920-85356bb7b299"]
+new [description:"Watch ED class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602615429" priority:"7" start:"1602615429" status:"pending" tags:"college,class" until:"1602981903" uuid:"08147b76-c611-4281-a920-85356bb7b299"]
+---
+time 1602618266
+old [description:"Watch ED class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602615429" priority:"7" start:"1602615429" status:"pending" tags:"college,class" until:"1602981903" uuid:"08147b76-c611-4281-a920-85356bb7b299"]
+new [description:"Watch ED class from 13\/10" due:"1602809103" end:"1602618265" entry:"1602589503" modified:"1602618266" priority:"7" status:"completed" tags:"college,class" until:"1602981903" uuid:"08147b76-c611-4281-a920-85356bb7b299"]
+---
+time 1602630679
+old [description:"Watch PROBABILIDADE class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602589503" priority:"7" status:"pending" tags:"college,class" until:"1602981903" uuid:"50fff0be-699e-474f-beaf-607c95d4f9ab"]
+new [description:"Watch PROBABILIDADE class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602630679" priority:"7" start:"1602630679" status:"pending" tags:"college,class" until:"1602981903" uuid:"50fff0be-699e-474f-beaf-607c95d4f9ab"]
+---
+time 1602634103
+old [description:"Watch PROBABILIDADE class from 13\/10" due:"1602809103" entry:"1602589503" modified:"1602630679" priority:"7" start:"1602630679" status:"pending" tags:"college,class" until:"1602981903" uuid:"50fff0be-699e-474f-beaf-607c95d4f9ab"]
+new [description:"Watch PROBABILIDADE class from 13\/10" due:"1602809103" end:"1602634102" entry:"1602589503" modified:"1602634103" priority:"7" status:"completed" tags:"college,class" until:"1602981903" uuid:"50fff0be-699e-474f-beaf-607c95d4f9ab"]
+---
+time 1602676336
+new [description:"Watch CALCULO II class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"a09dd628-1e87-43ab-be72-983d17331049"]
+---
+time 1602676336
+new [description:"Watch IBD class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"9087d0b3-2104-4c48-baca-c7dc1baa1ab7"]
+---
+time 1602676336
+new [description:"Watch ISL class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"dd7fc95f-d12f-4d33-b759-25443c73a786"]
+---
+time 1602676339
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18" modified:"1602597551" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+---
+time 1602676339
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++" modified:"1602597551" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602676339
+new [description:"Work on Vim wiki" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614559" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"cb3074c6-a18e-4bdb-b968-977df7dca185"]
+---
+time 1602676339
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++++" modified:"1602614559" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602676339
+new [description:"Do some lessons on gtypist" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614557" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"9d0dfc4a-3cc3-4c9d-a45d-1c275ac69cb8"]
+---
+time 1602676339
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++" modified:"1602614557" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602676339
+new [description:"Read some pages of the Radare2 book" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614553" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"a1d22817-62d1-40dc-96f3-1e6940090992"]
+---
+time 1602676339
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++" modified:"1602614553" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602676339
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614565" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"22345370-241a-4b6c-a993-074ce405ffd3"]
+---
+time 1602676339
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++" modified:"1602614565" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602676339
+new [description:"Watch vids on DankiCode GameDev course" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614568" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"805e4d8b-ec63-40aa-b79a-caacab933360"]
+---
+time 1602676339
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++" modified:"1602614568" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602676361
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18" modified:"1602597551" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602676361" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602676361" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+---
+time 1602684560
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602676361" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602676361" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602684560" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+---
+time 1602685700
+old [description:"Watch CALCULO II class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"a09dd628-1e87-43ab-be72-983d17331049"]
+new [description:"Watch CALCULO II class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602685700" priority:"7" start:"1602685699" status:"pending" tags:"college,class" until:"1603068736" uuid:"a09dd628-1e87-43ab-be72-983d17331049"]
+---
+time 1602686963
+old [description:"Watch CALCULO II class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602685700" priority:"7" start:"1602685699" status:"pending" tags:"college,class" until:"1603068736" uuid:"a09dd628-1e87-43ab-be72-983d17331049"]
+new [description:"Watch CALCULO II class from 14\/10" due:"1602895936" end:"1602686963" entry:"1602676336" modified:"1602686963" priority:"7" status:"completed" tags:"college,class" until:"1603068736" uuid:"a09dd628-1e87-43ab-be72-983d17331049"]
+---
+time 1602688523
+old [description:"Read some pages of the Radare2 book" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614553" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"a1d22817-62d1-40dc-96f3-1e6940090992"]
+new [description:"Read some pages of the Radare2 book" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602688523" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" start:"1602688522" status:"pending" tags:"cybersec" until:"1607203783" uuid:"a1d22817-62d1-40dc-96f3-1e6940090992"]
+---
+time 1602690246
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++" modified:"1602690246" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602690246
+old [description:"Read some pages of the Radare2 book" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602688523" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" start:"1602688522" status:"pending" tags:"cybersec" until:"1607203783" uuid:"a1d22817-62d1-40dc-96f3-1e6940090992"]
+new [description:"Read some pages of the Radare2 book" due:"1602752400" end:"1602690246" entry:"1602676339" imask:"8.000000" modified:"1602690246" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"a1d22817-62d1-40dc-96f3-1e6940090992"]
+---
+time 1602691512
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614565" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"22345370-241a-4b6c-a993-074ce405ffd3"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602691512" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" start:"1602691512" status:"pending" tags:"cybersec" until:"2147396400" uuid:"22345370-241a-4b6c-a993-074ce405ffd3"]
+---
+time 1602701647
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++" modified:"1602701647" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602701647
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602691512" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" start:"1602691512" status:"pending" tags:"cybersec" until:"2147396400" uuid:"22345370-241a-4b6c-a993-074ce405ffd3"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602752400" end:"1602701645" entry:"1602676339" imask:"8.000000" modified:"1602701647" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"22345370-241a-4b6c-a993-074ce405ffd3"]
+---
+time 1602701663
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++X" modified:"1602701663" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602701663
+old [description:"Do some lessons on gtypist" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614557" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578290" uuid:"9d0dfc4a-3cc3-4c9d-a45d-1c275ac69cb8"]
+new [description:"Do some lessons on gtypist" due:"1602752400" end:"1602701662" entry:"1602676339" imask:"8.000000" modified:"1602701663" parent:"7eca758e-f5b4-4e11-8b24-f71c582be35d" priority:"5" recur:"daily" rtype:"periodic" status:"deleted" tags:"hobbies" until:"1604578290" uuid:"9d0dfc4a-3cc3-4c9d-a45d-1c275ac69cb8"]
+---
+time 1602701665
+old [description:"Do some lessons on gtypist" due:"1602061200" entry:"1601986290" mask:"++++++++X" modified:"1602701663" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+new [description:"Do some lessons on gtypist" due:"1602061200" end:"1602701665" entry:"1601986290" mask:"++++++++X" modified:"1602701665" priority:"5" recur:"daily" rtype:"periodic" status:"deleted" tags:"hobbies" until:"1604578290" uuid:"7eca758e-f5b4-4e11-8b24-f71c582be35d"]
+---
+time 1602703579
+old [description:"Watch IBD class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"9087d0b3-2104-4c48-baca-c7dc1baa1ab7"]
+new [description:"Watch IBD class from 14\/10" due:"1602895936" end:"1602703578" entry:"1602676336" modified:"1602703579" priority:"7" status:"completed" tags:"college,class" until:"1603068736" uuid:"9087d0b3-2104-4c48-baca-c7dc1baa1ab7"]
+---
+time 1602704261
+old [description:"Watch vids on DankiCode GameDev course" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614568" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"805e4d8b-ec63-40aa-b79a-caacab933360"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602704261" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602704259" status:"pending" tags:"hobbies" until:"2147396400" uuid:"805e4d8b-ec63-40aa-b79a-caacab933360"]
+---
+time 1602709006
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++-" modified:"1602676339" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++" modified:"1602709006" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602709006
+old [description:"Watch vids on DankiCode GameDev course" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602704261" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602704259" status:"pending" tags:"hobbies" until:"2147396400" uuid:"805e4d8b-ec63-40aa-b79a-caacab933360"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602752400" end:"1602709005" entry:"1602676339" imask:"8.000000" modified:"1602709006" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"805e4d8b-ec63-40aa-b79a-caacab933360"]
+---
+time 1602715019
+old [description:"Work on Vim wiki" due:"1602752400" entry:"1602676339" imask:"8" modified:"1602614559" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1604578253" uuid:"cb3074c6-a18e-4bdb-b968-977df7dca185"]
+new [description:"Work on Vim wiki" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602715019" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602715019" status:"pending" tags:"hobbies" until:"1604578253" uuid:"cb3074c6-a18e-4bdb-b968-977df7dca185"]
+---
+time 1602718356
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++++" modified:"1602718356" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602718356
+old [description:"Work on Vim wiki" due:"1602752400" entry:"1602676339" imask:"8.000000" modified:"1602715019" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" start:"1602715019" status:"pending" tags:"hobbies" until:"1604578253" uuid:"cb3074c6-a18e-4bdb-b968-977df7dca185"]
+new [description:"Work on Vim wiki" due:"1602752400" end:"1602718356" entry:"1602676339" imask:"8.000000" modified:"1602718356" parent:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1604578253" uuid:"cb3074c6-a18e-4bdb-b968-977df7dca185"]
+---
+time 1602718404
+old [description:"Work on Vim wiki" due:"1602061200" entry:"1601986253" mask:"+++++++++" modified:"1602718356" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+new [description:"Work on Vim wiki" due:"1602061200" end:"1602718402" entry:"1601986253" mask:"+++++++++" modified:"1602718404" priority:"5" recur:"daily" rtype:"periodic" status:"deleted" tags:"hobbies" until:"1604578253" uuid:"eaf11fa8-1998-4b1f-9e5b-b7cf3d6db5a7"]
+---
+time 1602718616
+new [description:"Work on my Github Page and start uploading there" entry:"1602718616" modified:"1602718616" status:"waiting" tags:"hobbies" uuid:"38ac1ed5-c9fe-410e-b644-26158aae3153" wait:"1604869200"]
+---
+time 1602719007
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" modified:"1602719007" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602719009
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719009" imask:"0" modified:"1602719007" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"080933a9-77f8-424b-805b-7c2d563469db"]
+---
+time 1602719009
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" modified:"1602719007" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"-" modified:"1602719009" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602719013
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"-" modified:"1602719009" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+" modified:"1602719013" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602719013
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719009" imask:"0" modified:"1602719007" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"080933a9-77f8-424b-805b-7c2d563469db"]
+new [description:"Work on the Rust wiki" due:"1602752400" end:"1602719013" entry:"1602719009" imask:"0.000000" modified:"1602719013" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1615679007" uuid:"080933a9-77f8-424b-805b-7c2d563469db"]
+---
+time 1602719033
+old [description:"Work on my Github Page and start uploading there" entry:"1602718616" modified:"1602718616" status:"waiting" tags:"hobbies" uuid:"38ac1ed5-c9fe-410e-b644-26158aae3153" wait:"1604869200"]
+new [description:"Work on my Github Page and start uploading there" entry:"1602718616" modified:"1602719033" priority:"5" status:"waiting" tags:"hobbies" uuid:"38ac1ed5-c9fe-410e-b644-26158aae3153" wait:"1604869200"]
+---
+time 1602724305
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602684560" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602724305" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602724304" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+---
+time 1602727888
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++-" modified:"1602676339" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++" modified:"1602727888" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602727889
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" entry:"1602676339" imask:"18.000000" modified:"1602724305" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602724304" status:"pending" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602752400" end:"1602727888" entry:"1602676339" imask:"18.000000" modified:"1602727889" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"c3a55e29-3b5a-463b-800f-bff97e5ca877"]
+---
+time 1602759487
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602838800" entry:"1602759487" imask:"19" modified:"1602727888" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"17aedca6-54d8-4aa3-bd81-37400b751e33"]
+---
+time 1602759488
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++" modified:"1602727888" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++-" modified:"1602759488" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602759488
+new [description:"Read some pages of the Radare2 book" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602690246" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"aa0e7618-624b-4ca7-ad49-afb70874948f"]
+---
+time 1602759488
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++" modified:"1602690246" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602759488
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602701647" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"00d18f98-8b1f-40fb-9e11-1024fcdd12f4"]
+---
+time 1602759488
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++" modified:"1602701647" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602759488
+new [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602709006" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+---
+time 1602759488
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++" modified:"1602709006" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602759488
+new [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1" modified:"1602719013" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+---
+time 1602759488
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+" modified:"1602719013" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+-" modified:"1602759488" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602759493
+new [description:"Watch ED class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602759493" priority:"7" status:"pending" tags:"college,class" until:"1603151893" uuid:"4ab09fef-e897-4b0c-bc9b-881f0f07218a"]
+---
+time 1602759493
+new [description:"Watch PROBABILIDADE class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602759493" priority:"7" status:"pending" tags:"college,class" until:"1603151893" uuid:"5c460c6e-c290-4f36-9aee-efdd94418df1"]
+---
+time 1602760058
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602838800" entry:"1602759487" imask:"19" modified:"1602727888" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"17aedca6-54d8-4aa3-bd81-37400b751e33"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602838800" entry:"1602759487" imask:"19.000000" modified:"1602760058" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602760057" status:"pending" tags:"hobbies" until:"1608942408" uuid:"17aedca6-54d8-4aa3-bd81-37400b751e33"]
+---
+time 1602765810
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++-" modified:"1602759488" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++++" modified:"1602765810" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602765810
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602838800" entry:"1602759487" imask:"19.000000" modified:"1602760058" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602760057" status:"pending" tags:"hobbies" until:"1608942408" uuid:"17aedca6-54d8-4aa3-bd81-37400b751e33"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602838800" end:"1602765809" entry:"1602759487" imask:"19.000000" modified:"1602765810" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"17aedca6-54d8-4aa3-bd81-37400b751e33"]
+---
+time 1602765899
+old [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602520611" priority:"6" status:"pending" tags:"college" until:"1602779764" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602765899" priority:"6" status:"pending" tags:"college" until:"1602794699" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602771473
+old [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602709006" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602771473" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602771472" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+---
+time 1602775568
+old [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602771473" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602771472" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602775568" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+---
+time 1602776456
+old [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602775568" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602776456" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602776456" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+---
+time 1602780326
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++++" modified:"1602780326" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602780326
+old [description:"Watch vids on DankiCode GameDev course" due:"1602838800" entry:"1602759488" imask:"9.000000" modified:"1602776456" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602776456" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602838800" end:"1602780326" entry:"1602759488" imask:"9.000000" modified:"1602780326" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"f3ba6afb-0cef-40d3-82d2-02fdaa9f79b1"]
+---
+time 1602784913
+old [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602765899" priority:"6" status:"pending" tags:"college" until:"1602794699" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602784913" priority:"6" status:"pending" tags:"college" until:"1602813711" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602784942
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++++" modified:"1602784942" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602784942
+old [description:"Read some pages of the Radare2 book" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602690246" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"aa0e7618-624b-4ca7-ad49-afb70874948f"]
+new [description:"Read some pages of the Radare2 book" due:"1602838800" end:"1602784942" entry:"1602759488" imask:"9.000000" modified:"1602784942" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"aa0e7618-624b-4ca7-ad49-afb70874948f"]
+---
+time 1602785417
+old [description:"Read section 12 of ISL book" due:"1602779764" entry:"1602520564" modified:"1602784913" priority:"6" status:"pending" tags:"college" until:"1602813711" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602958216" entry:"1602520564" modified:"1602785417" priority:"6" status:"pending" tags:"college" until:"1602958216" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602788179
+old [description:"Watch ED class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602759493" priority:"7" status:"pending" tags:"college,class" until:"1603151893" uuid:"4ab09fef-e897-4b0c-bc9b-881f0f07218a"]
+new [description:"Watch ED class from 15\/10" due:"1602979093" end:"1602788177" entry:"1602759493" modified:"1602788179" priority:"7" status:"completed" tags:"college,class" until:"1603151893" uuid:"4ab09fef-e897-4b0c-bc9b-881f0f07218a"]
+---
+time 1602799512
+old [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1" modified:"1602719013" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+new [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602799512" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" start:"1602799511" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+---
+time 1602801625
+old [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602799512" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" start:"1602799511" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+new [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602801625" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+---
+time 1602801628
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++-" modified:"1602759488" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++++" modified:"1602801628" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602801628
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602838800" entry:"1602759488" imask:"9" modified:"1602701647" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"00d18f98-8b1f-40fb-9e11-1024fcdd12f4"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602838800" end:"1602801628" entry:"1602759488" imask:"9.000000" modified:"1602801628" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"00d18f98-8b1f-40fb-9e11-1024fcdd12f4"]
+---
+time 1602802468
+old [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602801625" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+new [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602802468" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" start:"1602802468" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+---
+time 1602806034
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+-" modified:"1602759488" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"++" modified:"1602806034" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602806035
+old [description:"Work on the Rust wiki" due:"1602838800" entry:"1602759488" imask:"1.000000" modified:"1602802468" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" start:"1602802468" status:"pending" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+new [description:"Work on the Rust wiki" due:"1602838800" end:"1602806034" entry:"1602759488" imask:"1.000000" modified:"1602806035" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1615679007" uuid:"34260cf8-bc69-4c43-b14e-a57aaeb8b92b"]
+---
+time 1602849117
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602925200" entry:"1602849117" imask:"20" modified:"1602765810" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"bb8dbc43-61d5-4ed8-875d-a6cc1635e858"]
+---
+time 1602849117
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++++" modified:"1602765810" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++++-" modified:"1602849117" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602849117
+new [description:"Read some pages of the Radare2 book" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602784942" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"6846b001-0871-4e63-b7d4-4bf68e2809eb"]
+---
+time 1602849117
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++++" modified:"1602784942" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602849117
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602801628" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"0cb987a0-39cd-4104-883e-003df0009000"]
+---
+time 1602849117
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++++" modified:"1602801628" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602849117
+new [description:"Watch vids on DankiCode GameDev course" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602780326" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"4e9385a4-2f49-4f67-a58b-aceda62bf379"]
+---
+time 1602849117
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++++" modified:"1602780326" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602849117
+new [description:"Work on the Rust wiki" due:"1602925200" entry:"1602849117" imask:"2" modified:"1602806034" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"ad763e8f-92d6-4abc-bf4f-fa509886e811"]
+---
+time 1602849117
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"++" modified:"1602806034" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"++-" modified:"1602849117" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602849122
+new [description:"Watch IBD class from 16\/10" due:"1603068722" entry:"1602849122" modified:"1602849122" priority:"7" status:"pending" tags:"college,class" until:"1603241522" uuid:"b27b79e4-7dca-4a96-9538-2e0cc24e6ffb"]
+---
+time 1602849132
+old [description:"Watch IBD class from 16\/10" due:"1603068722" entry:"1602849122" modified:"1602849122" priority:"7" status:"pending" tags:"college,class" until:"1603241522" uuid:"b27b79e4-7dca-4a96-9538-2e0cc24e6ffb"]
+new [description:"Watch IBD class from 16\/10" due:"1603068722" end:"1602849131" entry:"1602849122" modified:"1602849132" priority:"7" status:"deleted" tags:"college,class" until:"1603241522" uuid:"b27b79e4-7dca-4a96-9538-2e0cc24e6ffb"]
+---
+time 1602849685
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602925200" entry:"1602849117" imask:"20" modified:"1602765810" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"bb8dbc43-61d5-4ed8-875d-a6cc1635e858"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602925200" entry:"1602849117" imask:"20.000000" modified:"1602849685" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602849685" status:"pending" tags:"hobbies" until:"1608942408" uuid:"bb8dbc43-61d5-4ed8-875d-a6cc1635e858"]
+---
+time 1602853661
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++++-" modified:"1602849117" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++++" modified:"1602853661" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602853661
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1602925200" entry:"1602849117" imask:"20.000000" modified:"1602849685" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602849685" status:"pending" tags:"hobbies" until:"1608942408" uuid:"bb8dbc43-61d5-4ed8-875d-a6cc1635e858"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1602925200" end:"1602853661" entry:"1602849117" imask:"20.000000" modified:"1602853661" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"bb8dbc43-61d5-4ed8-875d-a6cc1635e858"]
+---
+time 1602867677
+old [description:"Read section 12 of ISL book" due:"1602958216" entry:"1602520564" modified:"1602785417" priority:"6" status:"pending" tags:"college" until:"1602958216" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602958216" entry:"1602520564" modified:"1602867677" priority:"6" start:"1602867674" status:"pending" tags:"college" until:"1602958216" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602868332
+new [description:"Do ED TP3" due:"1604091600" entry:"1602868332" modified:"1602868332" priority:"8" status:"waiting" tags:"college,tp" until:"1604113200" uuid:"23e0a8cd-0ed3-4c9e-a1f7-18e2afc0bfee" wait:"1602903600"]
+---
+time 1602871239
+old [description:"Read section 12 of ISL book" due:"1602958216" entry:"1602520564" modified:"1602867677" priority:"6" start:"1602867674" status:"pending" tags:"college" until:"1602958216" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+new [description:"Read section 12 of ISL book" due:"1602958216" end:"1602871239" entry:"1602520564" modified:"1602871239" priority:"6" status:"completed" tags:"college" until:"1602958216" uuid:"53a7c0e7-0eb3-46b0-9f9d-24bcda70e948"]
+---
+time 1602871250
+old [description:"Watch ISL class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602676336" priority:"7" status:"pending" tags:"college,class" until:"1603068736" uuid:"dd7fc95f-d12f-4d33-b759-25443c73a786"]
+new [description:"Watch ISL class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602871250" priority:"7" start:"1602871249" status:"pending" tags:"college,class" until:"1603068736" uuid:"dd7fc95f-d12f-4d33-b759-25443c73a786"]
+---
+time 1602872950
+old [description:"Watch ISL class from 14\/10" due:"1602895936" entry:"1602676336" modified:"1602871250" priority:"7" start:"1602871249" status:"pending" tags:"college,class" until:"1603068736" uuid:"dd7fc95f-d12f-4d33-b759-25443c73a786"]
+new [description:"Watch ISL class from 14\/10" due:"1602895936" end:"1602872950" entry:"1602676336" modified:"1602872950" priority:"7" status:"completed" tags:"college,class" until:"1603068736" uuid:"dd7fc95f-d12f-4d33-b759-25443c73a786"]
+---
+time 1602879207
+old [description:"Watch vids on DankiCode GameDev course" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602780326" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"4e9385a4-2f49-4f67-a58b-aceda62bf379"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602925200" entry:"1602849117" imask:"10.000000" modified:"1602879207" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602879198" status:"pending" tags:"hobbies" until:"2147396400" uuid:"4e9385a4-2f49-4f67-a58b-aceda62bf379"]
+---
+time 1602882519
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++++" modified:"1602882519" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602882519
+old [description:"Watch vids on DankiCode GameDev course" due:"1602925200" entry:"1602849117" imask:"10.000000" modified:"1602879207" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602879198" status:"pending" tags:"hobbies" until:"2147396400" uuid:"4e9385a4-2f49-4f67-a58b-aceda62bf379"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602925200" end:"1602882518" entry:"1602849117" imask:"10.000000" modified:"1602882519" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"4e9385a4-2f49-4f67-a58b-aceda62bf379"]
+---
+time 1602894474
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++++" modified:"1602894474" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602894474
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602801628" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"0cb987a0-39cd-4104-883e-003df0009000"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602925200" end:"1602894474" entry:"1602849117" imask:"10.000000" modified:"1602894474" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"2147396400" uuid:"0cb987a0-39cd-4104-883e-003df0009000"]
+---
+time 1602894480
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++++-" modified:"1602849117" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++++" modified:"1602894480" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602894480
+old [description:"Read some pages of the Radare2 book" due:"1602925200" entry:"1602849117" imask:"10" modified:"1602784942" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"6846b001-0871-4e63-b7d4-4bf68e2809eb"]
+new [description:"Read some pages of the Radare2 book" due:"1602925200" end:"1602894480" entry:"1602849117" imask:"10.000000" modified:"1602894480" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"6846b001-0871-4e63-b7d4-4bf68e2809eb"]
+---
+time 1602901990
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"++-" modified:"1602849117" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+++" modified:"1602901990" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602901990
+old [description:"Work on the Rust wiki" due:"1602925200" entry:"1602849117" imask:"2" modified:"1602806034" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"ad763e8f-92d6-4abc-bf4f-fa509886e811"]
+new [description:"Work on the Rust wiki" due:"1602925200" end:"1602901988" entry:"1602849117" imask:"2.000000" modified:"1602901990" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1615679007" uuid:"ad763e8f-92d6-4abc-bf4f-fa509886e811"]
+---
+time 1602933215
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1603011600" entry:"1602933215" imask:"21" modified:"1602853661" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"f1abff16-df79-4f76-9e13-f908d374df37"]
+---
+time 1602933215
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++++" modified:"1602853661" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++++-" modified:"1602933215" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602933215
+new [description:"Read some pages of the Radare2 book" due:"1603011600" entry:"1602933215" imask:"11" modified:"1602894480" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"e5e8db75-5b9f-4dfb-a624-4eb4e1b30a36"]
+---
+time 1602933215
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++++" modified:"1602894480" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++++-" modified:"1602933215" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602933215
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1603011600" entry:"1602933215" imask:"11" modified:"1602894474" parent:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"2147396400" uuid:"9dd80f25-c3ae-43e4-b777-45154bbdd010"]
+---
+time 1602933215
+old [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++++" modified:"1602894474" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+new [description:"Spend time on TryHackMe or Pwnable.kr" due:"1602061200" entry:"1602021265" mask:"+++++++++++-" modified:"1602933215" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"2147396400" uuid:"90bc8f16-eacb-4aa0-a6e2-9a956cf1f5e8"]
+---
+time 1602933215
+new [description:"Watch vids on DankiCode GameDev course" due:"1603011600" entry:"1602933215" imask:"11" modified:"1602882519" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f2968aea-61e9-4219-9cc8-aac5a6dddf65"]
+---
+time 1602933215
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++++" modified:"1602882519" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++++-" modified:"1602933215" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602933215
+new [description:"Work on the Rust wiki" due:"1603011600" entry:"1602933215" imask:"3" modified:"1602901990" parent:"e855c95a-8fca-4ed6-a674-650846b35218" priority:"7" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1615679007" uuid:"0efa93b2-0fca-4db5-a4a0-001ff87da945"]
+---
+time 1602933215
+old [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+++" modified:"1602901990" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+new [description:"Work on the Rust wiki" due:"1602752400" entry:"1602719007" mask:"+++-" modified:"1602933215" priority:"7" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1615679007" uuid:"e855c95a-8fca-4ed6-a674-650846b35218"]
+---
+time 1602933255
+old [description:"Do IBD TP2 part 2" due:"1603764000" entry:"1601918046" modified:"1602516071" priority:"8" status:"pending" tags:"college,tp" until:"1603771200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f"]
+new [description:"Do IBD TP2 part 2" due:"1603918800" entry:"1601918046" modified:"1602933255" priority:"8" status:"pending" tags:"college,tp" until:"1603933200" uuid:"aa6f2d4f-9aca-474a-a7bd-76591c19756f"]
+---
+time 1602934058
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1603011600" entry:"1602933215" imask:"21" modified:"1602853661" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"1608942408" uuid:"f1abff16-df79-4f76-9e13-f908d374df37"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1603011600" entry:"1602933215" imask:"21.000000" modified:"1602934058" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602934057" status:"pending" tags:"hobbies" until:"1608942408" uuid:"f1abff16-df79-4f76-9e13-f908d374df37"]
+---
+time 1602935820
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"+++++++++++++++++++++-" modified:"1602933215" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1601197200" entry:"1601166408" mask:"++++++++++++++++++++++" modified:"1602935820" priority:"5" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"1608942408" uuid:"1c111c1c-3dec-4059-b1ea-6aeebba46606"]
+---
+time 1602935820
+old [description:"Read 48 Laws of Power OR Chess Book" due:"1603011600" entry:"1602933215" imask:"21.000000" modified:"1602934058" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" start:"1602934057" status:"pending" tags:"hobbies" until:"1608942408" uuid:"f1abff16-df79-4f76-9e13-f908d374df37"]
+new [description:"Read 48 Laws of Power OR Chess Book" due:"1603011600" end:"1602935820" entry:"1602933215" imask:"21.000000" modified:"1602935820" parent:"1c111c1c-3dec-4059-b1ea-6aeebba46606" priority:"5" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"1608942408" uuid:"f1abff16-df79-4f76-9e13-f908d374df37"]
+---
+time 1602951686
+old [description:"Watch vids on DankiCode GameDev course" due:"1603011600" entry:"1602933215" imask:"11" modified:"1602882519" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f2968aea-61e9-4219-9cc8-aac5a6dddf65"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1603011600" entry:"1602933215" imask:"11.000000" modified:"1602951686" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602951680" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f2968aea-61e9-4219-9cc8-aac5a6dddf65"]
+---
+time 1602955154
+old [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"+++++++++++-" modified:"1602933215" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1602061200" entry:"1602026430" mask:"++++++++++++" modified:"1602955154" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"hobbies" until:"2147396400" uuid:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091"]
+---
+time 1602955155
+old [description:"Watch vids on DankiCode GameDev course" due:"1603011600" entry:"1602933215" imask:"11.000000" modified:"1602951686" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" start:"1602951680" status:"pending" tags:"hobbies" until:"2147396400" uuid:"f2968aea-61e9-4219-9cc8-aac5a6dddf65"]
+new [description:"Watch vids on DankiCode GameDev course" due:"1603011600" end:"1602955152" entry:"1602933215" imask:"11.000000" modified:"1602955155" parent:"bdd1790a-0b9e-4c7b-b61b-8a9c02ba2091" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"hobbies" until:"2147396400" uuid:"f2968aea-61e9-4219-9cc8-aac5a6dddf65"]
+---
+time 1602961420
+old [description:"Watch PROBABILIDADE class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602759493" priority:"7" status:"pending" tags:"college,class" until:"1603151893" uuid:"5c460c6e-c290-4f36-9aee-efdd94418df1"]
+new [description:"Watch PROBABILIDADE class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602961420" priority:"7" start:"1602961419" status:"pending" tags:"college,class" until:"1603151893" uuid:"5c460c6e-c290-4f36-9aee-efdd94418df1"]
+---
+time 1602964250
+old [description:"Watch PROBABILIDADE class from 15\/10" due:"1602979093" entry:"1602759493" modified:"1602961420" priority:"7" start:"1602961419" status:"pending" tags:"college,class" until:"1603151893" uuid:"5c460c6e-c290-4f36-9aee-efdd94418df1"]
+new [description:"Watch PROBABILIDADE class from 15\/10" due:"1602979093" end:"1602964250" entry:"1602759493" modified:"1602964250" priority:"7" status:"completed" tags:"college,class" until:"1603151893" uuid:"5c460c6e-c290-4f36-9aee-efdd94418df1"]
+---
+time 1602964261
+old [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"+++++++++++-" modified:"1602933215" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+new [description:"Read some pages of the Radare2 book" due:"1602061200" entry:"1602019783" mask:"++++++++++++" modified:"1602964261" priority:"6" recur:"daily" rtype:"periodic" status:"recurring" tags:"cybersec" until:"1607203783" uuid:"e511e290-ca62-4618-9562-b6c1ed7883c0"]
+---
+time 1602964261
+old [description:"Read some pages of the Radare2 book" due:"1603011600" entry:"1602933215" imask:"11" modified:"1602894480" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"pending" tags:"cybersec" until:"1607203783" uuid:"e5e8db75-5b9f-4dfb-a624-4eb4e1b30a36"]
+new [description:"Read some pages of the Radare2 book" due:"1603011600" end:"1602964261" entry:"1602933215" imask:"11.000000" modified:"1602964261" parent:"e511e290-ca62-4618-9562-b6c1ed7883c0" priority:"6" recur:"daily" rtype:"periodic" status:"completed" tags:"cybersec" until:"1607203783" uuid:"e5e8db75-5b9f-4dfb-a624-4eb4e1b30a36"]
+---

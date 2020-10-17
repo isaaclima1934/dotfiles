@@ -14,6 +14,9 @@
 urgency.user.tag.college.coefficient=4.0 # all my college stuff has a higher priority
 urgency.user.tag.cybersec.coefficient=2.0 # all my cybersec stuff also has a higher priority
 urgency.user.tag.hobbies.coefficient=1.0
+urgency.user.tag.tp.coefficient=2.0 # trabalho prático
+urgency.user.tag.test.coefficient=3.0 # tests
+urgency.user.tag.list.coefficient=0.5 # list
 # Files
 data.location=~/.task
 
