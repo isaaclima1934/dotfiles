@@ -20,6 +20,15 @@ if empty(glob(
   autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
 endif
 
+" Download and install Vundle (NOT cross platform).
+if empty(glob(
+    \ '$HOME/.vim/bundle/Vundle.vim'))
+  execute '!git clone ' .
+    \ 'https://github.com/VundleVim/Vundle.vim.git'
+    \ ' ~/.vim/bundle/Vundle.vim' .
+  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+endif
+
 " => Sane defaults --------------------------------------------------------
 set encoding=utf-8
 
@@ -37,6 +46,9 @@ set laststatus=2  " Always display the status line
 set autowrite     " Automatically :write before running commands
 set modelines=0   " Disable modelines as a security precaution
 set nomodeline
+
+" to speed things up a bit
+set ttimeoutlen=10
 
 " permits using h and l to move between line when reaching the start
 " and the end of a line, respectively
@@ -149,7 +161,7 @@ let g:vimwiki_list = [{
   \ 'template_ext': '.html'}]
 " let g:vimwiki_folding = 'expr'      " Enable folding.
 
-" godot-vim options
+" => godot-vim options --------------------------------------------------------------------------------
 let g:godot_executable='$HOME/Gamedev/godot'
 
 func! GodotSettings() abort
@@ -168,7 +180,7 @@ augroup godot | au!
     au FileType gdscript call GodotSettings()
 augroup end
 
-" key bindings
+" => key bindings --------------------------------------------------------------------------------------
 " Leader
 let mapleader = " "
 
@@ -199,5 +211,28 @@ nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
 
-" the YouCompleteMe bundle ============================================>
+" => the YouCompleteMe bundle ---------------------------------------------------------------------------------------------------------
 
+" filetype off " required for Vundle
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+
+" Vundle plugins
+call vundle#begin()
+" Brief help
+" :PluginList       - lists configured plugins
+" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
+" :PluginSearch foo - searches for foo; append `!` to refresh local cache
+" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+
+Plugin 'ycm-core/YouCompleteMe' " the sole reason I installed Vundle to begin with
+call vundle#end()
+
+" options for you complete me
+set completeopt-=preview
+
+" => source
+" -------------------------------------------------------------------------------------------------------------
+
+source /home/isaac/GitHub/lsp-examples/vimrc.generated

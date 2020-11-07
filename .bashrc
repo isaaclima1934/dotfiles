@@ -126,5 +126,8 @@ export PATH="$PATH:$HOME/Gamedev"
 
 alias tl='task +READY'
 alias ctl='clear && task +READY'
+alias ctlh='ctl +hobbies'
+alias ctlc='ctl -hobbies'
 alias tsum='timew summary'
 alias tsumids='timew summary :ids'
+alias openfile='xdg-open $(fzf)'
