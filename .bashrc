@@ -121,13 +121,9 @@ export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
 export PATH=/home/isaac/.rbenv/plugins/ruby-build/bin:/home/isaac/.rbenv/shims:/home/isaac/.rbenv/bin:/home/isaac/.rbenv/shims:/home/isaac/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/isaac/.dotnet/tools:/usr/lib/postgresql/10/bin
 export PATH="$PATH:$HOME/Gamedev"
 
-# For git completion
-. ~/.git-completion.bash
-
-alias tl='task +READY'
 alias ctl='clear && task +READY'
 alias ctlh='ctl +hobbies'
 alias ctlc='ctl -hobbies'
 alias tsum='timew summary'
 alias tsumids='timew summary :ids'
-alias openfile='xdg-open $(fzf)'
+alias rustscan='rustscan --ulimit 5000'

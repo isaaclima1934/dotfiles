@@ -10,26 +10,7 @@
 
 filetype plugin indent on
 
-" Download and install vim-plug (cross platform).
-if empty(glob(
-    \ '$HOME/' . (has('win32') ? 'vimfiles' : '.vim') . '/autoload/plug.vim'))
-  execute '!curl -fLo ' .
-    \ (has('win32') ? '\%USERPROFILE\%/vimfiles' : '$HOME/.vim') .
-    \ '/autoload/plug.vim --create-dirs ' .
-    \ 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
-
-" Download and install Vundle (NOT cross platform).
-if empty(glob(
-    \ '$HOME/.vim/bundle/Vundle.vim'))
-  execute '!git clone ' .
-    \ 'https://github.com/VundleVim/Vundle.vim.git'
-    \ ' ~/.vim/bundle/Vundle.vim' .
-  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
-
-" => Sane defaults --------------------------------------------------------
+" => Sane deaults --------------------------------------------------------
 set encoding=utf-8
 
 filetype plugin on
@@ -46,6 +27,10 @@ set laststatus=2  " Always display the status line
 set autowrite     " Automatically :write before running commands
 set modelines=0   " Disable modelines as a security precaution
 set nomodeline
+
+" COLOSCHEME
+colorscheme gruvbox
+set background=dark
 
 " to speed things up a bit
 set ttimeoutlen=10
@@ -107,10 +92,6 @@ set complete+=kspell
 " Always use vertical diffs
 set diffopt+=vertical
 
-" Aesthetic
-set background=dark
-colorscheme industry
-
 " => vim-plug plugins ----------------------------------------------------- {{{1
 
 " For vimwiki to utilize vim-table properly
@@ -118,14 +99,13 @@ let g:table_mode_corner='|'
 
 call plug#begin()
 
+Plug 'morhetz/gruvbox'
 Plug 'vimwiki/vimwiki'
-Plug 'danilamihailov/vim-tips-wiki'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-Plug 'habamax/vim-godot'
 
 call plug#end()
 
@@ -161,25 +141,6 @@ let g:vimwiki_list = [{
   \ 'template_ext': '.html'}]
 " let g:vimwiki_folding = 'expr'      " Enable folding.
 
-" => godot-vim options --------------------------------------------------------------------------------
-let g:godot_executable='$HOME/Gamedev/godot'
-
-func! GodotSettings() abort
-    setlocal foldmethod=expr
-    setlocal tabstop=4
-    nnoremap <buffer> <F4> :GodotRunLast<CR>
-    nnoremap <buffer> <F5> :GodotRun<CR>
-    nnoremap <buffer> <F6> :GodotRunCurrent<CR>
-    nnoremap <buffer> <F7> :GodotRunFZF<CR>
-    nnoremap <buffer> <Leader>gl :GodotRunLast<CR>
-    nnoremap <buffer> <Leader>gm :GodotRun<CR>
-    nnoremap <buffer> <Leader>g :GodotRunCurrent<CR>
-    nnoremap <buffer> <Leader>gf :GodotRunFZF<CR>
-endfunc
-augroup godot | au!
-    au FileType gdscript call GodotSettings()
-augroup end
-
 " => key bindings --------------------------------------------------------------------------------------
 " Leader
 let mapleader = " "
@@ -198,6 +159,8 @@ noremap <Leader>ag :Ag<CR>
 
 " Save more quickly
 nnoremap <Leader>s :w<CR>
+nnoremap <Leader>S :w<CR>
+nnoremap :W :w
 
 " easy TOC
 map \T :VimwikiTOC<CR>
@@ -210,29 +173,3 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
-
-" => the YouCompleteMe bundle ---------------------------------------------------------------------------------------------------------
-
-" filetype off " required for Vundle
-
-" set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
-
-" Vundle plugins
-call vundle#begin()
-" Brief help
-" :PluginList       - lists configured plugins
-" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
-" :PluginSearch foo - searches for foo; append `!` to refresh local cache
-" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
-
-Plugin 'ycm-core/YouCompleteMe' " the sole reason I installed Vundle to begin with
-call vundle#end()
-
-" options for you complete me
-set completeopt-=preview
-
-" => source
-" -------------------------------------------------------------------------------------------------------------
-
-source /home/isaac/GitHub/lsp-examples/vimrc.generated
