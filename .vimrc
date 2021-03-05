@@ -57,8 +57,8 @@ endif
 let g:is_posix = 1
 
 " Softtabs, 2 spaces
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set shiftround
 set expandtab
 

@@ -28,7 +28,8 @@ search.case.sensitive=no
 list.all.projects=yes
 
 # Color theme (uncomment one to use)
-include /usr/share/taskwarrior/dark-yellow-green.theme
+#include /usr/share/taskwarrior/dark-yellow-green.theme
+include /usr/local/share/doc/task/rc/dark-yellow-green.theme
 
 # Let's make our own scheduled report.
 

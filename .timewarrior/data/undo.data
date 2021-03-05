@@ -4762,3 +4762,964 @@ txn:
   type: interval
   before: 
   after: {"start":"20210125T174915Z","end":"20210125T213018Z","tags":["Watch ICD class from 25/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T170418Z","tags":["Watch ALGEBRA A class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210126T170418Z","tags":["Watch ALGEBRA A class from 26/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210126T170418Z","end":"20210126T172803Z","tags":["Watch ALGEBRA A class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T173443Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210126T173443Z","tags":["Watch Bash course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210126T173443Z","end":"20210126T180937Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T180949Z","tags":["Watch FTC class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210126T180949Z","tags":["Watch FTC class from 26/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210126T180949Z","end":"20210126T190256Z","tags":["Watch FTC class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T193110Z","tags":["Watch ALG1 class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210126T193110Z","tags":["Watch ALG1 class from 26/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210126T193110Z","end":"20210126T193114Z","tags":["Watch ALG1 class from 26/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T190258Z","end":"20210126T193045Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210126T233934Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210126T233934Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210126T233934Z","end":"20210127T003803Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210127T165029Z","tags":["Watch OC I class from 25/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210127T165029Z","tags":["Watch OC I class from 25/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210127T165029Z","end":"20210127T171219Z","tags":["Watch OC I class from 25/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210127T162512Z","end":"20210127T164948Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210127T213852Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210127T213852Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210127T213852Z","end":"20210127T213854Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210127T204021Z","end":"20210127T213851Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210127T214021Z","tags":["Watch ICD class from 27/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210127T214021Z","tags":["Watch ICD class from 27/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210127T214021Z","end":"20210127T221304Z","tags":["Watch ICD class from 27/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210128T170148Z","tags":["Watch ALG1 class from 28/01","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210128T170148Z","tags":["Watch ALG1 class from 28/01","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210128T170148Z","end":"20210128T170325Z","tags":["Watch ALG1 class from 28/01","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210128T170333Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210128T170333Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210128T170333Z","end":"20210128T172838Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210128T194908Z","tags":["Do ALGEBRA A exercises referent to the class from 26/01","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210128T194908Z","tags":["Do ALGEBRA A exercises referent to the class from 26/01","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210128T194908Z","end":"20210128T200630Z","tags":["Do ALGEBRA A exercises referent to the class from 26/01","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210128T214659Z","tags":["Learn music theory","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210128T214659Z","tags":["Learn music theory","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210128T214659Z","end":"20210128T223229Z","tags":["Learn music theory","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210129T181924Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210129T181924Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210129T181924Z","end":"20210129T201226Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210129T235528Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210129T235528Z","tags":["Do list 1 from ALG1","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210129T235528Z","end":"20210130T001239Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210130T010508Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210130T010508Z","tags":["Do list 1 from ALG1","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210130T010508Z","end":"20210130T025432Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210130T171645Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210130T171645Z","tags":["Do list 1 from ALG1","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210130T171645Z","end":"20210130T183919Z","tags":["Do list 1 from ALG1","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210131T011711Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210131T011711Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210131T011711Z","end":"20210131T024011Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210201T131914Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: {"start":"20210201T131914Z","tags":["Listen to the new Spotify songs"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210201T131914Z","end":"20210201T133608Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210201T183749Z","tags":["Watch ICD class from 1/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210201T183749Z","tags":["Watch ICD class from 1/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210201T183749Z","end":"20210201T190046Z","tags":["Watch ICD class from 1/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210201T203118Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: {"start":"20210201T203118Z","tags":["Listen to the new Spotify songs"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210201T203118Z","end":"20210201T210542Z","tags":["Listen to the new Spotify songs"]}
+  type: interval
+  before: 
+  after: {"start":"20210201T210542Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210201T210542Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210201T210542Z","end":"20210201T225038Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210201T225040Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210201T225040Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210201T225040Z","end":"20210202T012947Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210202T111347Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210202T111347Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210202T111347Z","end":"20210202T193553Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210202T111347Z","end":"20210202T193553Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210202T111347Z","end":"20210202T153553Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210202T195334Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210202T195334Z","tags":["Watch Bash course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210202T195334Z","end":"20210202T202446Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210203T155124Z","tags":["Do test from OC1","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20210203T155124Z","tags":["Do test from OC1","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210203T155124Z","end":"20210203T165458Z","tags":["Do test from OC1","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210203T174505Z","tags":["Watch OC I class from 3/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210203T174505Z","tags":["Watch OC I class from 3/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210203T174505Z","end":"20210203T184146Z","tags":["Watch OC I class from 3/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210204T134913Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210204T134913Z","tags":["Watch Bash course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210204T134913Z","end":"20210204T134925Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210204T175500Z","end":"20210204T203500Z","tags":["Do test from ALG1"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210205T141829Z","tags":["Do test from FTC","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20210205T141829Z","tags":["Do test from FTC","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210205T141829Z","end":"20210205T141831Z","tags":["Do test from FTC","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210205T122414Z","end":"20210205T141749Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210205T194907Z","tags":["Watch ALGEBRA A class from 2/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210205T194907Z","tags":["Watch ALGEBRA A class from 2/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210205T194907Z","end":"20210205T200614Z","tags":["Watch ALGEBRA A class from 2/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210205T200618Z","tags":["Do ALGEBRA A exercises referent to the class from 2/02","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210205T200618Z","tags":["Do ALGEBRA A exercises referent to the class from 2/02","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210205T200618Z","end":"20210205T202609Z","tags":["Do ALGEBRA A exercises referent to the class from 2/02","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210205T204641Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210205T204641Z","tags":["Do TP1 of FTC","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210205T204641Z","end":"20210205T230241Z","tags":["Do TP1 of FTC","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210208T195325Z","tags":["Watch OC I class from 8/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210208T195325Z","tags":["Watch OC I class from 8/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210208T195325Z","end":"20210208T204809Z","tags":["Watch OC I class from 8/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210209T182151Z","tags":["Watch ALGEBRA A class from 9/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210209T182151Z","tags":["Watch ALGEBRA A class from 9/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210209T182151Z","end":"20210209T184824Z","tags":["Watch ALGEBRA A class from 9/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210209T184830Z","tags":["Watch ALG1 class from 9/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210209T184830Z","tags":["Watch ALG1 class from 9/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210209T184830Z","end":"20210209T210200Z","tags":["Watch ALG1 class from 9/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210209T210225Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: {"start":"20210209T210225Z","tags":["Listen to the new Spotify songs"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210209T210225Z","end":"20210209T230111Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210212T142311Z","tags":["Watch ALG1 class from 11/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210212T142311Z","tags":["Watch ALG1 class from 11/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210212T142311Z","end":"20210212T164920Z","tags":["Watch ALG1 class from 11/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210216T140315Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210216T140315Z","tags":["Do TP2 of ALG1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210216T140315Z","end":"20210216T142803Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210217T184325Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210217T184325Z","tags":["Do TP2 of ALG1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210217T184325Z","end":"20210217T212820Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210220T170655Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210220T170655Z","tags":["Do TP2 of ALG1","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210220T170655Z","end":"20210220T185446Z","tags":["Do TP2 of ALG1","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210221T190906Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210221T190906Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210221T190906Z","end":"20210221T195319Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210221T205715Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210221T205715Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210221T205715Z","end":"20210221T214724Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210222T160146Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210222T160146Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210222T160146Z","end":"20210222T164549Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210222T173049Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: {"start":"20210222T173049Z","tags":["Listen to the new Spotify songs"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210222T173049Z","end":"20210222T183021Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210222T183543Z","tags":["Do ICD quiz referent to the class from 22/02","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210222T183543Z","tags":["Do ICD quiz referent to the class from 22/02","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210222T183543Z","end":"20210222T194950Z","tags":["Do ICD quiz referent to the class from 22/02","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210222T201913Z","tags":["Watch ICD class from 22/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210222T201913Z","tags":["Watch ICD class from 22/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210222T201913Z","end":"20210222T202038Z","tags":["Watch ICD class from 22/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210222T222356Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210222T222356Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210222T222356Z","end":"20210222T232435Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210223T120912Z","tags":["Watch ALG1 class from 23/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210223T120912Z","tags":["Watch ALG1 class from 23/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210223T120912Z","end":"20210223T125309Z","tags":["Watch ALG1 class from 23/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210223T140432Z","tags":["Do FTC list 7!","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210223T140432Z","tags":["Do FTC list 7!","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210223T140432Z","end":"20210223T153504Z","tags":["Do FTC list 7!","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210223T184928Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210223T184928Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210223T184928Z","end":"20210223T184933Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210223T180123Z","end":"20210223T184912Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210223T190159Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210223T190159Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210223T190159Z","end":"20210223T195052Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210224T121532Z","tags":["Study for OC1 test","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20210224T121532Z","tags":["Study for OC1 test","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210224T121532Z","end":"20210224T140814Z","tags":["Study for OC1 test","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210224T215818Z","tags":["Watch ICD class from 24/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210224T215818Z","tags":["Watch ICD class from 24/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210224T215818Z","end":"20210224T225816Z","tags":["Watch ICD class from 24/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210225T131923Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210225T131923Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210225T131923Z","end":"20210225T140956Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210225T150028Z","tags":["Study for ALGEBRA A test","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20210225T150028Z","tags":["Study for ALGEBRA A test","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210225T150028Z","end":"20210225T165017Z","tags":["Study for ALGEBRA A test","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210225T165022Z","tags":["Do ALGEBRA A test","college","test"]}
+txn:
+  type: interval
+  before: {"start":"20210225T165022Z","tags":["Do ALGEBRA A test","college","test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210225T165022Z","end":"20210225T172923Z","tags":["Do ALGEBRA A test","college","test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210225T202426Z","tags":["Watch ALG1 class from 25/02","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210225T202426Z","tags":["Watch ALG1 class from 25/02","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210225T202426Z","end":"20210225T210509Z","tags":["Watch ALG1 class from 25/02","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210226T123117Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210226T123117Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210226T123117Z","end":"20210226T144039Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210226T224920Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210226T224920Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210226T224920Z","end":"20210227T002320Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T002708Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210227T002708Z","tags":["Watch Bash course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T002708Z","end":"20210227T002712Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T004802Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210227T004802Z","tags":["Watch Bash course","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T004802Z","end":"20210227T010318Z","tags":["Watch Bash course","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T145746Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210227T145746Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T145746Z","end":"20210227T162404Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T182311Z","tags":["Do ICD quizzes 18, 19 and 21!","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210227T182311Z","tags":["Do ICD quizzes 18, 19 and 21!","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T182311Z","end":"20210227T193447Z","tags":["Do ICD quizzes 18, 19 and 21!","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T204350Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210227T204350Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T204350Z","end":"20210227T220016Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210227T225550Z","tags":["Watch duphouse on twitch.tv/duph0use","cybersec","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210227T225550Z","tags":["Watch duphouse on twitch.tv/duph0use","cybersec","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210227T225550Z","end":"20210228T011314Z","tags":["Watch duphouse on twitch.tv/duph0use","cybersec","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210228T140028Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210228T140028Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210228T140028Z","end":"20210228T155346Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210228T183020Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210228T183020Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210228T183020Z","end":"20210228T193347Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210301T000443Z","tags":["Do lists 5, 6 and 7 from ICD","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210301T000443Z","tags":["Do lists 5, 6 and 7 from ICD","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210301T000443Z","end":"20210301T025257Z","tags":["Do lists 5, 6 and 7 from ICD","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210301T142407Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: {"start":"20210301T142407Z","tags":["Listen to the new Spotify songs"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210301T142407Z","end":"20210301T154627Z","tags":["Listen to the new Spotify songs"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210301T181018Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210301T181018Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210301T181018Z","end":"20210301T183009Z","tags":["Watch Mushoku Tensei","anime","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210301T183709Z","tags":["Watch OC I class from 1/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210301T183709Z","tags":["Watch OC I class from 1/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210301T183709Z","end":"20210301T200805Z","tags":["Watch OC I class from 1/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210302T135557Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210302T135557Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210302T135557Z","end":"20210302T140553Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210302T143211Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210302T143211Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210302T143211Z","end":"20210302T145708Z","tags":["Watch ALGEBRA A class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210302T150635Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210302T150635Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210302T150635Z","end":"20210302T155306Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210302T161507Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210302T161507Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210302T161507Z","end":"20210302T162956Z","tags":["Watch ALG1 class from 2/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210302T213718Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: {"start":"20210302T213718Z","tags":["Spend time on a hacking site","cybersec"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210302T213718Z","end":"20210302T220007Z","tags":["Spend time on a hacking site","cybersec"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210303T002309Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210303T002309Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T002309Z","end":"20210303T115405Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210303T002309Z","end":"20210303T115405Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T002309Z","end":"20210303T025405Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210303T002309Z","end":"20210303T025405Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T002309Z","end":"20210303T015405Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210303T115544Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: {"start":"20210303T115544Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T115544Z","end":"20210303T132547Z","tags":["Fazer meu teste de hipótese","college","tp"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210303T181642Z","tags":["Watch OC I class from 3/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210303T181642Z","tags":["Watch OC I class from 3/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T181642Z","end":"20210303T185511Z","tags":["Watch OC I class from 3/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210303T222342Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210303T222342Z","tags":["Read gamedev book","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210303T222342Z","end":"20210303T231545Z","tags":["Read gamedev book","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210304T204052Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+txn:
+  type: interval
+  before: {"start":"20210304T204052Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210304T204052Z","end":"20210304T210821Z","tags":["Watch Dr. Stone","anime","hobbies"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210305T134654Z","tags":["Do list 8 from FTC","college","list"]}
+txn:
+  type: interval
+  before: {"start":"20210305T134654Z","tags":["Do list 8 from FTC","college","list"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210305T134654Z","end":"20210305T134658Z","tags":["Do list 8 from FTC","college","list"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210305T134703Z","tags":["Watch FTC class from 4/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210305T134703Z","tags":["Watch FTC class from 4/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210305T134703Z","end":"20210305T150036Z","tags":["Watch FTC class from 4/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210305T150257Z","tags":["Watch ALG1 class from 4/03","class","college"]}
+txn:
+  type: interval
+  before: {"start":"20210305T150257Z","tags":["Watch ALG1 class from 4/03","class","college"]}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20210305T150257Z","end":"20210305T154309Z","tags":["Watch ALG1 class from 4/03","class","college"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20210305T181004Z","tags":["Spend time on a hacking site","cybersec"]}
